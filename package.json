@@ -1,0 +1,30 @@
+{
+  "name": "email-agent-chrome-extension",
+  "version": "1.0.0",
+  "description": "A Chrome extension that triages Gmail inbox emails using AI heuristics.",
+  "main": "extension/dist/content.js",
+  "scripts": {
+    "build": "npm run clean && npm run create-extension && npm run prepare-dist && npm run build:content && npm run build:settings && npm run build:interface && npm run build:css",
+    "clean": "rm -rf extension",
+    "create-extension": "mkdir -p extension/dist",
+    "prepare-dist": "cp manifest.json extension/",
+    "build:content": "npx esbuild content.ts --bundle --format=esm --outfile=extension/dist/content.js",
+    "build:settings": "npx esbuild settings.ts --bundle --format=esm --outfile=extension/dist/settings.js",
+    "build:interface": "cp settings.html extension/settings.html",
+    "build:css": "cp settings.css extension/settings.css"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/chrome": "^0.1.4",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.0.17",
+    "better-sqlite3": "^11.10.0",
+    "openai": "^5.12.2",
+    "tailwindcss": "^4.1.12",
+    "zod": "^3.25.76"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Email Inbox Agent",
+  "version": "1.0",
+  "description": "Uses AI to classify your emails automatically.",
+  "permissions": ["scripting", "activeTab", "storage"],
+  "content_scripts": [
+    {
+      "js": ["dist/content.js"],
+      "matches": ["https://mail.google.com/*"],
+      "type": "module"
+    }
+  ],
+  "action": {
+    "default_popup": "settings.html"
+  }
+}

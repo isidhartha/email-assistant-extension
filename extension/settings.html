@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Email Agent Onboarding</title>
+    <link rel="stylesheet" href="settings.css">
+  </head>
+  <body>
+    <div id="onboarding" class="container">
+      <h2>Welcome to Email Agent</h2>
+      <p>Enter your OpenAI API key to get started:</p>
+      <input type="password" id="onboardingApiKey" placeholder="OpenAI API Key" />
+      <button id="submitApiKeyBtn" class="primary-btn">Continue</button>
+    </div>
+
+    <div id="mainUI" class="hidden container">
+      <h2>Email Agent Dashboard</h2>
+      <div class="button-row">
+        <button id="activateAgentBtn" class="success-btn">Activate Agent</button>
+        <button id="deactivateAgentBtn" class="danger-btn">Deactivate Agent</button>
+      </div>
+      <button id="clearDatabaseBtn" class="warning-btn">Clear Database</button>
+      <button id="settingsBtn" class="secondary-btn" style="margin-top:1rem;">Settings</button>
+      <div id="settingsPanel" class="hidden">
+        <h3 style="margin-bottom:0.5rem;">Categories</h3>
+        <div class="input-row">
+          <input type="text" id="categoryInput" placeholder="Add category..." />
+          <button id="addCategoryBtn" class="secondary-btn ml-2">Add</button>
+        </div>
+        <ul id="categoryList"></ul>
+        <button id="closeSettingsBtn" class="close-btn">Close</button>
+      </div>
+    </div>
+    <script src="dist/settings.js"></script>
+  </body>
+</html>
