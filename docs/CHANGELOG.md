@@ -11,3 +11,7 @@ All notable changes are documented here.
 - fix: handle undefined API key on first extension launch
 
 
+### 2022-01-14
+- fix: fix keyboard shortcut conflict with Gmail native keys
+
+
