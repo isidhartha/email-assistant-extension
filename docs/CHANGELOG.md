@@ -15,3 +15,7 @@ All notable changes are documented here.
 - fix: fix keyboard shortcut conflict with Gmail native keys
 
 
+### 2022-01-18
+- chore: configure Vite for Chrome extension build output
+
+
