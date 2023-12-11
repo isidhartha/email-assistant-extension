@@ -19,3 +19,7 @@ All notable changes are documented here.
 - chore: configure Vite for Chrome extension build output
 
 
+### 2022-01-18
+- docs: add message passing API reference to docs/API.md
+
+
