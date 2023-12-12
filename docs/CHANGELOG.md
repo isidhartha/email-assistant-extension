@@ -23,3 +23,7 @@ All notable changes are documented here.
 - docs: add message passing API reference to docs/API.md
 
 
+### 2022-01-20
+- feat: add Tailwind CSS scoped styles for sidebar UI
+
+
