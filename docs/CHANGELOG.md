@@ -27,3 +27,7 @@ All notable changes are documented here.
 - feat: add Tailwind CSS scoped styles for sidebar UI
 
 
+### 2022-01-21
+- test: add Zod message schema validation tests
+
+
