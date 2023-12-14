@@ -31,3 +31,7 @@ All notable changes are documented here.
 - test: add Zod message schema validation tests
 
 
+### 2022-01-24
+- fix: handle empty thread body with fallback message
+
+
