@@ -35,3 +35,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2022-01-26
+- fix: resolve SQLite WAL mode file locking conflict
+
+
