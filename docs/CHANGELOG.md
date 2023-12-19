@@ -39,3 +39,7 @@ All notable changes are documented here.
 - fix: resolve SQLite WAL mode file locking conflict
 
 
+### 2022-01-28
+- docs: add message passing API reference to docs/API.md
+
+
