@@ -43,3 +43,7 @@ All notable changes are documented here.
 - docs: add message passing API reference to docs/API.md
 
 
+### 2022-01-30
+- test: add service worker message handler unit tests
+
+
