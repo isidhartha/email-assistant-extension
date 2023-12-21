@@ -47,3 +47,7 @@ All notable changes are documented here.
 - test: add service worker message handler unit tests
 
 
+### 2022-02-09
+- feat: implement tone selector formal casual concise
+
+
