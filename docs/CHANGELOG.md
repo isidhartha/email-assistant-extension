@@ -51,3 +51,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2022-02-10
+- feat: implement settings page for API key configuration
+
+
