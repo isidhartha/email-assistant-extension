@@ -55,3 +55,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2022-02-16
+- refactor: extract DOM selectors to dedicated module
+
+
