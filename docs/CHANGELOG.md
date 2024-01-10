@@ -59,3 +59,7 @@ All notable changes are documented here.
 - refactor: extract DOM selectors to dedicated module
 
 
+### 2022-02-17
+- chore: configure Vite for Chrome extension build output
+
+
