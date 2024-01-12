@@ -63,3 +63,7 @@ All notable changes are documented here.
 - chore: configure Vite for Chrome extension build output
 
 
+### 2022-02-17
+- feat: implement loading spinner during AI processing
+
+
