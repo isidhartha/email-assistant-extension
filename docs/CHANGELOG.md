@@ -67,3 +67,7 @@ All notable changes are documented here.
 - feat: implement loading spinner during AI processing
 
 
+### 2022-02-17
+- feat: implement email thread summarisation agent
+
+
