@@ -71,3 +71,7 @@ All notable changes are documented here.
 - feat: implement email thread summarisation agent
 
 
+### 2022-02-23
+- feat: add history panel listing past AI interactions
+
+
