@@ -75,3 +75,7 @@ All notable changes are documented here.
 - feat: add history panel listing past AI interactions
 
 
+### 2022-02-24
+- test: add Zod message schema validation tests
+
+
