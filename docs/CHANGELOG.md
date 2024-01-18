@@ -79,3 +79,7 @@ All notable changes are documented here.
 - test: add Zod message schema validation tests
 
 
+### 2022-02-28
+- feat: implement Chrome Manifest V3 extension scaffold
+
+
