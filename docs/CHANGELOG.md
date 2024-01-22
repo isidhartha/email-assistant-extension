@@ -83,3 +83,7 @@ All notable changes are documented here.
 - feat: implement Chrome Manifest V3 extension scaffold
 
 
+### 2022-03-07
+- perf: implement request deduplication for repeated threads
+
+
