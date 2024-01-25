@@ -95,3 +95,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2022-03-13
+- docs: update CONTRIBUTING.md with extension reload workflow
+
+
