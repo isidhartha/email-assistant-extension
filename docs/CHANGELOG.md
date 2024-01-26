@@ -99,3 +99,7 @@ All notable changes are documented here.
 - docs: update CONTRIBUTING.md with extension reload workflow
 
 
+### 2022-03-16
+- chore: update manifest.json permissions for Outlook support
+
+
