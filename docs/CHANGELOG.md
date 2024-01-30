@@ -103,3 +103,7 @@ All notable changes are documented here.
 - chore: update manifest.json permissions for Outlook support
 
 
+### 2022-03-18
+- feat: add keyboard shortcut to toggle assistant sidebar
+
+
