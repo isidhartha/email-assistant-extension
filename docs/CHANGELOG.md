@@ -111,3 +111,7 @@ All notable changes are documented here.
 - fix: fix Zod schema for nullable thread sender fields
 
 
+### 2022-03-30
+- refactor: consolidate message type definitions into enum
+
+
