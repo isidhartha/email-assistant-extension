@@ -115,3 +115,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2022-03-30
+- perf: implement request deduplication for repeated threads
+
+
