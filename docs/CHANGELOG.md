@@ -119,3 +119,7 @@ All notable changes are documented here.
 - perf: implement request deduplication for repeated threads
 
 
+### 2022-04-06
+- chore: add extension-specific eslint rules
+
+
