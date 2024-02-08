@@ -123,3 +123,7 @@ All notable changes are documented here.
 - chore: add extension-specific eslint rules
 
 
+### 2022-04-12
+- feat: add extension badge showing unread action count
+
+
