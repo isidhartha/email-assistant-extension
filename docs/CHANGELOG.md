@@ -127,3 +127,7 @@ All notable changes are documented here.
 - feat: add extension badge showing unread action count
 
 
+### 2022-04-13
+- perf: implement request deduplication for repeated threads
+
+
