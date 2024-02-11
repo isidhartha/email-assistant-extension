@@ -131,3 +131,7 @@ All notable changes are documented here.
 - perf: implement request deduplication for repeated threads
 
 
+### 2022-04-14
+- docs: add screenshots guide placeholder to README
+
+
