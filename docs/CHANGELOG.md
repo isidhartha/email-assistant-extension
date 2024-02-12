@@ -135,3 +135,7 @@ All notable changes are documented here.
 - docs: add screenshots guide placeholder to README
 
 
+### 2022-04-25
+- refactor: extract sidebar rendering into component functions
+
+
