@@ -139,3 +139,7 @@ All notable changes are documented here.
 - refactor: extract sidebar rendering into component functions
 
 
+### 2022-04-27
+- fix: fix sidebar persistence across Gmail soft navigation
+
+
