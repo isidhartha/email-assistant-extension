@@ -143,3 +143,7 @@ All notable changes are documented here.
 - fix: fix sidebar persistence across Gmail soft navigation
 
 
+### 2022-04-29
+- feat: add OpenAI Agents SDK three-agent setup
+
+
