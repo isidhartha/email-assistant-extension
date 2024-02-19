@@ -147,3 +147,7 @@ All notable changes are documented here.
 - feat: add OpenAI Agents SDK three-agent setup
 
 
+### 2022-04-29
+- feat: add extension badge showing unread action count
+
+
