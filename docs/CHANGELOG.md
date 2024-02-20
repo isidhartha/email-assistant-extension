@@ -151,3 +151,7 @@ All notable changes are documented here.
 - feat: add extension badge showing unread action count
 
 
+### 2022-05-12
+- fix: fix keyboard shortcut conflict with Gmail native keys
+
+
