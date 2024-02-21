@@ -155,3 +155,7 @@ All notable changes are documented here.
 - fix: fix keyboard shortcut conflict with Gmail native keys
 
 
+### 2022-05-14
+- perf: lazy-load SQLite module on first history access
+
+
