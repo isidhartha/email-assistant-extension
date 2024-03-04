@@ -167,3 +167,7 @@ All notable changes are documented here.
 - feat: implement background service worker for AI processing
 
 
+### 2022-05-20
+- chore: update manifest.json permissions for Outlook support
+
+
