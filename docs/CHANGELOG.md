@@ -171,3 +171,7 @@ All notable changes are documented here.
 - chore: update manifest.json permissions for Outlook support
 
 
+### 2022-05-23
+- style: fix eslint violations across content scripts
+
+
