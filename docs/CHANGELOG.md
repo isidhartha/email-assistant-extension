@@ -175,3 +175,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2022-05-27
+- fix: handle OpenAI network error with user-friendly message
+
+
