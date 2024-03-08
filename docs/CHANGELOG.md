@@ -179,3 +179,7 @@ All notable changes are documented here.
 - fix: handle OpenAI network error with user-friendly message
 
 
+### 2022-05-30
+- fix: correct chrome.runtime message size limit handling
+
+
