@@ -183,3 +183,7 @@ All notable changes are documented here.
 - fix: correct chrome.runtime message size limit handling
 
 
+### 2022-06-02
+- feat: add Tailwind CSS scoped styles for sidebar UI
+
+
