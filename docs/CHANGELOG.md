@@ -187,3 +187,7 @@ All notable changes are documented here.
 - feat: add Tailwind CSS scoped styles for sidebar UI
 
 
+### 2022-06-09
+- chore: bump TypeScript to 5.4
+
+
