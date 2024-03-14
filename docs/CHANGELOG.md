@@ -191,3 +191,7 @@ All notable changes are documented here.
 - chore: bump TypeScript to 5.4
 
 
+### 2022-06-16
+- fix: handle undefined API key on first extension launch
+
+
