@@ -195,3 +195,7 @@ All notable changes are documented here.
 - fix: handle undefined API key on first extension launch
 
 
+### 2022-06-17
+- feat: add inline error message display for API failures
+
+
