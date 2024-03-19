@@ -199,3 +199,7 @@ All notable changes are documented here.
 - feat: add inline error message display for API failures
 
 
+### 2022-06-19
+- feat: implement email thread summarisation agent
+
+
