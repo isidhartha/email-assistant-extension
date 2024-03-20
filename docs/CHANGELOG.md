@@ -203,3 +203,7 @@ All notable changes are documented here.
 - feat: implement email thread summarisation agent
 
 
+### 2022-06-23
+- feat: implement action item extraction agent
+
+
