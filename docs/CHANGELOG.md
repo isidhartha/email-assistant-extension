@@ -207,3 +207,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2022-06-27
+- feat: implement chrome.runtime message passing protocol
+
+
