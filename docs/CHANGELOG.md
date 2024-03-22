@@ -211,3 +211,7 @@ All notable changes are documented here.
 - feat: implement chrome.runtime message passing protocol
 
 
+### 2022-07-04
+- refactor: extract sidebar rendering into component functions
+
+
