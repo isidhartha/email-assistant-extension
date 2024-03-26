@@ -215,3 +215,7 @@ All notable changes are documented here.
 - refactor: extract sidebar rendering into component functions
 
 
+### 2022-07-07
+- fix: fix keyboard shortcut conflict with Gmail native keys
+
+
