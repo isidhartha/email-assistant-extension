@@ -223,3 +223,7 @@ All notable changes are documented here.
 - feat: add better-sqlite3 local history storage
 
 
+### 2022-07-12
+- refactor: consolidate message type definitions into enum
+
+
