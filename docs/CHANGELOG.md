@@ -227,3 +227,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2022-07-16
+- fix: resolve Outlook DOM selector change after UI update
+
+
