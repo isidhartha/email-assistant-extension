@@ -231,3 +231,7 @@ All notable changes are documented here.
 - fix: resolve Outlook DOM selector change after UI update
 
 
+### 2022-07-19
+- feat: add reply drafting agent with configurable tone control
+
+
