@@ -235,3 +235,7 @@ All notable changes are documented here.
 - feat: add reply drafting agent with configurable tone control
 
 
+### 2022-07-20
+- feat: implement email thread summarisation agent
+
+
