@@ -239,3 +239,7 @@ All notable changes are documented here.
 - feat: implement email thread summarisation agent
 
 
+### 2022-07-23
+- feat: implement sidebar panel injection via content script
+
+
