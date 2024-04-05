@@ -243,3 +243,7 @@ All notable changes are documented here.
 - feat: implement sidebar panel injection via content script
 
 
+### 2022-07-27
+- style: run prettier on all TypeScript source files
+
+
