@@ -247,3 +247,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2022-07-28
+- feat: add Outlook Web support in content script
+
+
