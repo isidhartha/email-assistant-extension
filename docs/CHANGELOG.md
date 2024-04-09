@@ -251,3 +251,7 @@ All notable changes are documented here.
 - feat: add Outlook Web support in content script
 
 
+### 2022-08-01
+- chore: update manifest.json permissions for Outlook support
+
+
