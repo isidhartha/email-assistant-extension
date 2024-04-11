@@ -255,3 +255,7 @@ All notable changes are documented here.
 - chore: update manifest.json permissions for Outlook support
 
 
+### 2022-08-01
+- fix: handle OpenAI network error with user-friendly message
+
+
