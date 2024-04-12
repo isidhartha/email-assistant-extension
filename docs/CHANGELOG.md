@@ -259,3 +259,7 @@ All notable changes are documented here.
 - fix: handle OpenAI network error with user-friendly message
 
 
+### 2022-08-03
+- fix: fix Zod schema for nullable thread sender fields
+
+
