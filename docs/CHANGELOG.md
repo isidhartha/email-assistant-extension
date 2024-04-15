@@ -263,3 +263,7 @@ All notable changes are documented here.
 - fix: fix Zod schema for nullable thread sender fields
 
 
+### 2022-08-06
+- feat: implement background service worker for AI processing
+
+
