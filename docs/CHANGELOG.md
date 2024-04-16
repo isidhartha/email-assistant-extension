@@ -267,3 +267,7 @@ All notable changes are documented here.
 - feat: implement background service worker for AI processing
 
 
+### 2022-08-12
+- fix: handle undefined API key on first extension launch
+
+
