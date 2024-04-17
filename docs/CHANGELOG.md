@@ -271,3 +271,7 @@ All notable changes are documented here.
 - fix: handle undefined API key on first extension launch
 
 
+### 2022-08-12
+- fix: resolve SQLite WAL mode file locking conflict
+
+
