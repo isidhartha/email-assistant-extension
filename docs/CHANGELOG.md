@@ -275,3 +275,7 @@ All notable changes are documented here.
 - fix: resolve SQLite WAL mode file locking conflict
 
 
+### 2022-08-16
+- chore: update manifest.json permissions for Outlook support
+
+
