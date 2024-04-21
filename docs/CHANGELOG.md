@@ -279,3 +279,7 @@ All notable changes are documented here.
 - chore: update manifest.json permissions for Outlook support
 
 
+### 2022-08-17
+- fix: resolve content script isolated world access issue
+
+
