@@ -283,3 +283,7 @@ All notable changes are documented here.
 - fix: resolve content script isolated world access issue
 
 
+### 2022-09-05
+- fix: handle missing email body element in DOM extraction
+
+
