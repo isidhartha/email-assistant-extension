@@ -287,3 +287,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2022-09-06
+- perf: cache DOM extraction result per thread ID
+
+
