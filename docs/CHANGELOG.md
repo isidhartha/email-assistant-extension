@@ -291,3 +291,7 @@ All notable changes are documented here.
 - perf: cache DOM extraction result per thread ID
 
 
+### 2022-09-14
+- feat: implement background service worker for AI processing
+
+
