@@ -295,3 +295,7 @@ All notable changes are documented here.
 - feat: implement background service worker for AI processing
 
 
+### 2022-09-16
+- perf: lazy-load SQLite module on first history access
+
+
