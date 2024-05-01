@@ -303,3 +303,7 @@ All notable changes are documented here.
 - fix: handle long email thread exceeding context limit
 
 
+### 2022-09-20
+- fix: fix service worker lifecycle reset on Chrome restart
+
+
