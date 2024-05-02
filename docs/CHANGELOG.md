@@ -307,3 +307,7 @@ All notable changes are documented here.
 - fix: fix service worker lifecycle reset on Chrome restart
 
 
+### 2022-09-26
+- refactor: separate agent definitions from service worker
+
+
