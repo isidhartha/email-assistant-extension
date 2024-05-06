@@ -311,3 +311,7 @@ All notable changes are documented here.
 - refactor: separate agent definitions from service worker
 
 
+### 2022-09-30
+- perf: lazy-load SQLite module on first history access
+
+
