@@ -315,3 +315,7 @@ All notable changes are documented here.
 - perf: lazy-load SQLite module on first history access
 
 
+### 2022-10-05
+- fix: resolve content script isolated world access issue
+
+
