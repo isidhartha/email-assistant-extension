@@ -319,3 +319,7 @@ All notable changes are documented here.
 - fix: resolve content script isolated world access issue
 
 
+### 2022-10-10
+- feat: add content script injection for Gmail inbox pages
+
+
