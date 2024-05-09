@@ -323,3 +323,7 @@ All notable changes are documented here.
 - feat: add content script injection for Gmail inbox pages
 
 
+### 2022-10-11
+- feat: implement summary caching for repeated thread views
+
+
