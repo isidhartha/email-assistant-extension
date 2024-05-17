@@ -327,3 +327,7 @@ All notable changes are documented here.
 - feat: implement summary caching for repeated thread views
 
 
+### 2022-10-15
+- chore: configure Vite for Chrome extension build output
+
+
