@@ -331,3 +331,7 @@ All notable changes are documented here.
 - chore: configure Vite for Chrome extension build output
 
 
+### 2022-10-27
+- fix: correct chrome.runtime message size limit handling
+
+
