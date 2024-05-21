@@ -335,3 +335,7 @@ All notable changes are documented here.
 - fix: correct chrome.runtime message size limit handling
 
 
+### 2022-10-28
+- fix: fix service worker lifecycle reset on Chrome restart
+
+
