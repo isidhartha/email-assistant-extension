@@ -343,3 +343,7 @@ All notable changes are documented here.
 - feat: add history panel listing past AI interactions
 
 
+### 2022-10-29
+- refactor: separate agent definitions from service worker
+
+
