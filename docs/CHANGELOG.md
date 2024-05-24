@@ -347,3 +347,7 @@ All notable changes are documented here.
 - refactor: separate agent definitions from service worker
 
 
+### 2022-11-01
+- fix: resolve Gmail CSS specificity override conflict
+
+
