@@ -351,3 +351,7 @@ All notable changes are documented here.
 - fix: resolve Gmail CSS specificity override conflict
 
 
+### 2022-11-01
+- feat: add support for Gmail conversation view threading
+
+
