@@ -355,3 +355,7 @@ All notable changes are documented here.
 - feat: add support for Gmail conversation view threading
 
 
+### 2022-11-06
+- perf: lazy-load SQLite module on first history access
+
+
