@@ -363,3 +363,7 @@ All notable changes are documented here.
 - refactor: separate Gmail and Outlook content script logic
 
 
+### 2022-11-07
+- feat: add extension badge showing unread action count
+
+
