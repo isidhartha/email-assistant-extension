@@ -367,3 +367,7 @@ All notable changes are documented here.
 - feat: add extension badge showing unread action count
 
 
+### 2022-11-09
+- feat: implement copy-to-clipboard for generated drafts
+
+
