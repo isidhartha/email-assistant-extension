@@ -371,3 +371,7 @@ All notable changes are documented here.
 - feat: implement copy-to-clipboard for generated drafts
 
 
+### 2022-11-10
+- refactor: separate agent definitions from service worker
+
+
