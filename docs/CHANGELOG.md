@@ -375,3 +375,7 @@ All notable changes are documented here.
 - refactor: separate agent definitions from service worker
 
 
+### 2022-11-11
+- chore: add extension-specific eslint rules
+
+
