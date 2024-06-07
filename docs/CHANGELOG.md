@@ -379,3 +379,7 @@ All notable changes are documented here.
 - chore: add extension-specific eslint rules
 
 
+### 2022-11-14
+- fix: fix Zod schema for nullable thread sender fields
+
+
