@@ -383,3 +383,7 @@ All notable changes are documented here.
 - fix: fix Zod schema for nullable thread sender fields
 
 
+### 2022-11-16
+- feat: add Zod schema validation for all message types
+
+
