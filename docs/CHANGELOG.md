@@ -387,3 +387,7 @@ All notable changes are documented here.
 - feat: add Zod schema validation for all message types
 
 
+### 2022-11-24
+- docs: update CONTRIBUTING.md with extension reload workflow
+
+
