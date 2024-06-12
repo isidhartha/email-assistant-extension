@@ -391,3 +391,7 @@ All notable changes are documented here.
 - docs: update CONTRIBUTING.md with extension reload workflow
 
 
+### 2022-12-04
+- fix: resolve content script isolated world access issue
+
+
