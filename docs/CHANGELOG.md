@@ -395,3 +395,7 @@ All notable changes are documented here.
 - fix: resolve content script isolated world access issue
 
 
+### 2022-12-18
+- fix: fix service worker lifecycle reset on Chrome restart
+
+
