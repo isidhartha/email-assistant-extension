@@ -399,3 +399,7 @@ All notable changes are documented here.
 - fix: fix service worker lifecycle reset on Chrome restart
 
 
+### 2022-12-24
+- docs: document permission requirements in manifest notes
+
+
