@@ -403,3 +403,7 @@ All notable changes are documented here.
 - docs: document permission requirements in manifest notes
 
 
+### 2022-12-26
+- feat: implement DOM thread context extraction for Gmail
+
+
