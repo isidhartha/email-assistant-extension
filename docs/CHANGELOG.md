@@ -407,3 +407,7 @@ All notable changes are documented here.
 - feat: implement DOM thread context extraction for Gmail
 
 
+### 2022-12-27
+- docs: document Chrome extension installation steps in README
+
+
