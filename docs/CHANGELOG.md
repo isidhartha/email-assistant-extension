@@ -411,3 +411,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2023-01-13
+- feat: add content script injection for Gmail inbox pages
+
+
