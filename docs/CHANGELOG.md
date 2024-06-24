@@ -415,3 +415,7 @@ All notable changes are documented here.
 - feat: add content script injection for Gmail inbox pages
 
 
+### 2023-01-13
+- perf: implement request deduplication for repeated threads
+
+
