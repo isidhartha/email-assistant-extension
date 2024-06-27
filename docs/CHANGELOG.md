@@ -423,3 +423,7 @@ All notable changes are documented here.
 - fix: handle undefined API key on first extension launch
 
 
+### 2023-01-19
+- style: fix eslint violations across content scripts
+
+
