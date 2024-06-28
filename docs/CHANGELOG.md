@@ -427,3 +427,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2023-01-26
+- feat: implement loading spinner during AI processing
+
+
