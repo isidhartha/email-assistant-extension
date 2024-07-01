@@ -431,3 +431,7 @@ All notable changes are documented here.
 - feat: implement loading spinner during AI processing
 
 
+### 2023-01-30
+- feat: implement background service worker for AI processing
+
+
