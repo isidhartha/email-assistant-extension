@@ -435,3 +435,7 @@ All notable changes are documented here.
 - feat: implement background service worker for AI processing
 
 
+### 2023-02-04
+- style: run prettier on all TypeScript source files
+
+
