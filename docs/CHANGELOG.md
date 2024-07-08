@@ -439,3 +439,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2023-02-06
+- perf: cache DOM extraction result per thread ID
+
+
