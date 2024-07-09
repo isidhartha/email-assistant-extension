@@ -443,3 +443,7 @@ All notable changes are documented here.
 - perf: cache DOM extraction result per thread ID
 
 
+### 2023-02-09
+- docs: update CONTRIBUTING.md with extension reload workflow
+
+
