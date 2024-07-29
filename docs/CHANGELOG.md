@@ -451,3 +451,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2023-02-20
+- refactor: move SQLite schema to migration files
+
+
