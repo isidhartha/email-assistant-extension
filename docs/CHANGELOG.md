@@ -455,3 +455,7 @@ All notable changes are documented here.
 - refactor: move SQLite schema to migration files
 
 
+### 2023-03-02
+- feat: implement tone selector formal casual concise
+
+
