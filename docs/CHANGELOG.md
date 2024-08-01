@@ -459,3 +459,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2023-03-02
+- chore: add extension-specific eslint rules
+
+
