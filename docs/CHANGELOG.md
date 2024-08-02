@@ -463,3 +463,7 @@ All notable changes are documented here.
 - chore: add extension-specific eslint rules
 
 
+### 2023-03-13
+- fix: correct chrome.runtime message size limit handling
+
+
