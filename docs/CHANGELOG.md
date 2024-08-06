@@ -467,3 +467,7 @@ All notable changes are documented here.
 - fix: correct chrome.runtime message size limit handling
 
 
+### 2023-03-21
+- feat: implement SQLite schema with version migrations
+
+
