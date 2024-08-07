@@ -471,3 +471,7 @@ All notable changes are documented here.
 - feat: implement SQLite schema with version migrations
 
 
+### 2023-03-23
+- refactor: consolidate API key retrieval into storage module
+
+
