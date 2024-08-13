@@ -483,3 +483,7 @@ All notable changes are documented here.
 - feat: add inline error message display for API failures
 
 
+### 2023-04-08
+- feat: implement copy-to-clipboard for generated drafts
+
+
