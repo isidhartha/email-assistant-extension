@@ -487,3 +487,7 @@ All notable changes are documented here.
 - feat: implement copy-to-clipboard for generated drafts
 
 
+### 2023-04-11
+- docs: update architecture.md with service worker lifecycle
+
+
