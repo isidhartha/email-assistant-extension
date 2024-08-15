@@ -491,3 +491,7 @@ All notable changes are documented here.
 - docs: update architecture.md with service worker lifecycle
 
 
+### 2023-04-11
+- fix: fix service worker lifecycle reset on Chrome restart
+
+
