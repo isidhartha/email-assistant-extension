@@ -495,3 +495,7 @@ All notable changes are documented here.
 - fix: fix service worker lifecycle reset on Chrome restart
 
 
+### 2023-04-11
+- fix: resolve Outlook DOM selector change after UI update
+
+
