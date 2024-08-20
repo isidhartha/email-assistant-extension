@@ -499,3 +499,7 @@ All notable changes are documented here.
 - fix: resolve Outlook DOM selector change after UI update
 
 
+### 2023-04-12
+- feat: add better-sqlite3 local history storage
+
+
