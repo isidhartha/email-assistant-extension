@@ -511,3 +511,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2023-04-22
+- feat: implement loading spinner during AI processing
+
+
