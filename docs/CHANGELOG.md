@@ -515,3 +515,7 @@ All notable changes are documented here.
 - feat: implement loading spinner during AI processing
 
 
+### 2023-04-24
+- fix: handle missing email body element in DOM extraction
+
+
