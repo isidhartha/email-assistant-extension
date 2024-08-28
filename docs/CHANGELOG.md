@@ -519,3 +519,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2023-04-25
+- feat: add history panel listing past AI interactions
+
+
