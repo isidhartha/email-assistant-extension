@@ -523,3 +523,7 @@ All notable changes are documented here.
 - feat: add history panel listing past AI interactions
 
 
+### 2023-04-27
+- fix: handle undefined API key on first extension launch
+
+
