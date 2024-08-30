@@ -527,3 +527,7 @@ All notable changes are documented here.
 - fix: handle undefined API key on first extension launch
 
 
+### 2023-05-03
+- fix: fix sidebar persistence across Gmail soft navigation
+
+
