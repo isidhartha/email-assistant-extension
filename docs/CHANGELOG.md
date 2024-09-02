@@ -531,3 +531,7 @@ All notable changes are documented here.
 - fix: fix sidebar persistence across Gmail soft navigation
 
 
+### 2023-05-17
+- feat: add extension badge showing unread action count
+
+
