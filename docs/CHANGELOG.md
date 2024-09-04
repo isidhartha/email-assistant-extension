@@ -535,3 +535,7 @@ All notable changes are documented here.
 - feat: add extension badge showing unread action count
 
 
+### 2023-05-19
+- fix: resolve race condition between concurrent messages
+
+
