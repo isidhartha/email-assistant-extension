@@ -539,3 +539,7 @@ All notable changes are documented here.
 - fix: resolve race condition between concurrent messages
 
 
+### 2023-05-21
+- feat: implement sidebar panel injection via content script
+
+
