@@ -543,3 +543,7 @@ All notable changes are documented here.
 - feat: implement sidebar panel injection via content script
 
 
+### 2023-05-23
+- feat: implement settings page for API key configuration
+
+
