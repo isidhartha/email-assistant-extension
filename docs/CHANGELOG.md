@@ -547,3 +547,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2023-05-23
+- feat: implement Chrome Manifest V3 extension scaffold
+
+
