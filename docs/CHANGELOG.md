@@ -551,3 +551,7 @@ All notable changes are documented here.
 - feat: implement Chrome Manifest V3 extension scaffold
 
 
+### 2023-05-25
+- refactor: separate Gmail and Outlook content script logic
+
+
