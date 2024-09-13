@@ -555,3 +555,7 @@ All notable changes are documented here.
 - refactor: separate Gmail and Outlook content script logic
 
 
+### 2023-06-03
+- fix: resolve Gmail CSS specificity override conflict
+
+
