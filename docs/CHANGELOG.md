@@ -559,3 +559,7 @@ All notable changes are documented here.
 - fix: resolve Gmail CSS specificity override conflict
 
 
+### 2023-06-08
+- fix: handle OpenAI network error with user-friendly message
+
+
