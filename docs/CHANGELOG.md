@@ -563,3 +563,7 @@ All notable changes are documented here.
 - fix: handle OpenAI network error with user-friendly message
 
 
+### 2023-06-13
+- feat: implement threading context for contextual reply drafts
+
+
