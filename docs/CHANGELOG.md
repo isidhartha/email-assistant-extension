@@ -567,3 +567,7 @@ All notable changes are documented here.
 - feat: implement threading context for contextual reply drafts
 
 
+### 2023-06-15
+- feat: implement action item extraction agent
+
+
