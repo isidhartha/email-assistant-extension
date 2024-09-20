@@ -571,3 +571,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2023-06-18
+- feat: implement tone selector formal casual concise
+
+
