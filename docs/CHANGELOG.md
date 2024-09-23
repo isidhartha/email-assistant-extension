@@ -575,3 +575,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2023-06-19
+- chore: bump TypeScript to 5.4
+
+
