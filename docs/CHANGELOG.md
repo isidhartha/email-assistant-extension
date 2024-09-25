@@ -579,3 +579,7 @@ All notable changes are documented here.
 - chore: bump TypeScript to 5.4
 
 
+### 2023-06-23
+- chore: add extension-specific eslint rules
+
+
