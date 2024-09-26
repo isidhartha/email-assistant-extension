@@ -583,3 +583,7 @@ All notable changes are documented here.
 - chore: add extension-specific eslint rules
 
 
+### 2023-06-24
+- refactor: consolidate message type definitions into enum
+
+
