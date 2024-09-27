@@ -587,3 +587,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2023-07-04
+- feat: add keyboard shortcut to toggle assistant sidebar
+
+
