@@ -591,3 +591,7 @@ All notable changes are documented here.
 - feat: add keyboard shortcut to toggle assistant sidebar
 
 
+### 2023-07-05
+- feat: implement Chrome Manifest V3 extension scaffold
+
+
