@@ -595,3 +595,7 @@ All notable changes are documented here.
 - feat: implement Chrome Manifest V3 extension scaffold
 
 
+### 2023-07-06
+- docs: update CONTRIBUTING.md with extension reload workflow
+
+
