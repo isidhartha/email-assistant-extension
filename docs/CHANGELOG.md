@@ -599,3 +599,7 @@ All notable changes are documented here.
 - docs: update CONTRIBUTING.md with extension reload workflow
 
 
+### 2023-07-14
+- feat: add Outlook Web support in content script
+
+
