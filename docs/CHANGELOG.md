@@ -603,3 +603,7 @@ All notable changes are documented here.
 - feat: add Outlook Web support in content script
 
 
+### 2023-07-15
+- feat: add keyboard shortcut to toggle assistant sidebar
+
+
