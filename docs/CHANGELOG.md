@@ -607,3 +607,7 @@ All notable changes are documented here.
 - feat: add keyboard shortcut to toggle assistant sidebar
 
 
+### 2023-07-15
+- refactor: move SQLite schema to migration files
+
+
