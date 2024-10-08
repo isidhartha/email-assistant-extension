@@ -611,3 +611,7 @@ All notable changes are documented here.
 - refactor: move SQLite schema to migration files
 
 
+### 2023-07-19
+- fix: correct SQLite database path on different OS
+
+
