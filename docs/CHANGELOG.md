@@ -615,3 +615,7 @@ All notable changes are documented here.
 - fix: correct SQLite database path on different OS
 
 
+### 2023-07-19
+- feat: implement action item extraction agent
+
+
