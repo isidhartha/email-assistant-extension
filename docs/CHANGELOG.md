@@ -619,3 +619,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2023-07-20
+- feat: implement copy-to-clipboard for generated drafts
+
+
