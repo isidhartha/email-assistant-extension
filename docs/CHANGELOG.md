@@ -623,3 +623,7 @@ All notable changes are documented here.
 - feat: implement copy-to-clipboard for generated drafts
 
 
+### 2023-07-21
+- chore: bump TypeScript to 5.4
+
+
