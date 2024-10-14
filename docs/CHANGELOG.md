@@ -627,3 +627,7 @@ All notable changes are documented here.
 - chore: bump TypeScript to 5.4
 
 
+### 2023-07-25
+- feat: add history panel listing past AI interactions
+
+
