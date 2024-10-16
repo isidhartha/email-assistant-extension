@@ -635,3 +635,7 @@ All notable changes are documented here.
 - docs: add screenshots guide placeholder to README
 
 
+### 2023-07-27
+- feat: implement SQLite schema with version migrations
+
+
