@@ -639,3 +639,7 @@ All notable changes are documented here.
 - feat: implement SQLite schema with version migrations
 
 
+### 2023-07-27
+- feat: implement sidebar panel injection via content script
+
+
