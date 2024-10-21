@@ -643,3 +643,7 @@ All notable changes are documented here.
 - feat: implement sidebar panel injection via content script
 
 
+### 2023-08-02
+- feat: add history panel listing past AI interactions
+
+
