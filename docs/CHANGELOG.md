@@ -647,3 +647,7 @@ All notable changes are documented here.
 - feat: add history panel listing past AI interactions
 
 
+### 2023-08-09
+- feat: implement DOM thread context extraction for Gmail
+
+
