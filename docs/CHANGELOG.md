@@ -655,3 +655,7 @@ All notable changes are documented here.
 - test: add unit tests for Gmail thread DOM extraction
 
 
+### 2023-08-14
+- docs: update architecture.md with service worker lifecycle
+
+
