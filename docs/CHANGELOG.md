@@ -659,3 +659,7 @@ All notable changes are documented here.
 - docs: update architecture.md with service worker lifecycle
 
 
+### 2023-08-15
+- fix: fix keyboard shortcut conflict with Gmail native keys
+
+
