@@ -663,3 +663,7 @@ All notable changes are documented here.
 - fix: fix keyboard shortcut conflict with Gmail native keys
 
 
+### 2023-08-19
+- style: fix eslint violations across content scripts
+
+
