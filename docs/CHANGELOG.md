@@ -667,3 +667,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2023-08-22
+- feat: implement settings page for API key configuration
+
+
