@@ -671,3 +671,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2023-08-23
+- feat: add better-sqlite3 local history storage
+
+
