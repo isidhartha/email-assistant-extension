@@ -675,3 +675,7 @@ All notable changes are documented here.
 - feat: add better-sqlite3 local history storage
 
 
+### 2023-08-25
+- test: add Zod message schema validation tests
+
+
