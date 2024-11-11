@@ -679,3 +679,7 @@ All notable changes are documented here.
 - test: add Zod message schema validation tests
 
 
+### 2023-08-28
+- feat: implement summary caching for repeated thread views
+
+
