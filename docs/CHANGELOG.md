@@ -683,3 +683,7 @@ All notable changes are documented here.
 - feat: implement summary caching for repeated thread views
 
 
+### 2023-08-29
+- feat: add history panel listing past AI interactions
+
+
