@@ -687,3 +687,7 @@ All notable changes are documented here.
 - feat: add history panel listing past AI interactions
 
 
+### 2023-09-01
+- fix: handle OpenAI network error with user-friendly message
+
+
