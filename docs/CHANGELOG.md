@@ -691,3 +691,7 @@ All notable changes are documented here.
 - fix: handle OpenAI network error with user-friendly message
 
 
+### 2023-09-01
+- test: add service worker message handler unit tests
+
+
