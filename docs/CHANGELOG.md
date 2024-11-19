@@ -699,3 +699,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2023-09-10
+- feat: implement summary caching for repeated thread views
+
+
