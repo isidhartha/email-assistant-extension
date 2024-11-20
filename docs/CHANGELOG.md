@@ -703,3 +703,7 @@ All notable changes are documented here.
 - feat: implement summary caching for repeated thread views
 
 
+### 2023-09-15
+- refactor: consolidate message type definitions into enum
+
+
