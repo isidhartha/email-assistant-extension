@@ -715,3 +715,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2023-09-22
+- docs: document Chrome extension installation steps in README
+
+
