@@ -719,3 +719,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2023-09-25
+- feat: implement SQLite schema with version migrations
+
+
