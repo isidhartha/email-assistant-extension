@@ -723,3 +723,7 @@ All notable changes are documented here.
 - feat: implement SQLite schema with version migrations
 
 
+### 2023-10-05
+- fix: resolve Gmail CSS specificity override conflict
+
+
