@@ -727,3 +727,7 @@ All notable changes are documented here.
 - fix: resolve Gmail CSS specificity override conflict
 
 
+### 2023-10-16
+- feat: add inline error message display for API failures
+
+
