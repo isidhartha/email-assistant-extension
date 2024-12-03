@@ -731,3 +731,7 @@ All notable changes are documented here.
 - feat: add inline error message display for API failures
 
 
+### 2023-10-24
+- feat: add support for Gmail conversation view threading
+
+
