@@ -735,3 +735,7 @@ All notable changes are documented here.
 - feat: add support for Gmail conversation view threading
 
 
+### 2023-10-25
+- fix: handle undefined API key on first extension launch
+
+
