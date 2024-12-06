@@ -739,3 +739,7 @@ All notable changes are documented here.
 - fix: handle undefined API key on first extension launch
 
 
+### 2023-10-30
+- perf: implement request deduplication for repeated threads
+
+
