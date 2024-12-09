@@ -743,3 +743,7 @@ All notable changes are documented here.
 - perf: implement request deduplication for repeated threads
 
 
+### 2023-11-01
+- fix: handle missing email body element in DOM extraction
+
+
