@@ -755,3 +755,7 @@ All notable changes are documented here.
 - feat: implement DOM thread context extraction for Gmail
 
 
+### 2023-11-08
+- refactor: consolidate API key retrieval into storage module
+
+
