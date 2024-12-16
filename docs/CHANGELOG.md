@@ -759,3 +759,7 @@ All notable changes are documented here.
 - refactor: consolidate API key retrieval into storage module
 
 
+### 2023-11-13
+- feat: implement settings page for API key configuration
+
+
