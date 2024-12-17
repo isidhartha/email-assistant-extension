@@ -763,3 +763,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2023-11-13
+- refactor: consolidate message type definitions into enum
+
+
