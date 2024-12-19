@@ -767,3 +767,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2023-11-21
+- chore: configure Vite for Chrome extension build output
+
+
