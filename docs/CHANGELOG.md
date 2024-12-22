@@ -775,3 +775,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2023-12-04
+- chore: add extension-specific eslint rules
+
+
