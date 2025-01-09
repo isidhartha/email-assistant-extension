@@ -779,3 +779,7 @@ All notable changes are documented here.
 - chore: add extension-specific eslint rules
 
 
+### 2023-12-04
+- feat: add Zod schema validation for all message types
+
+
