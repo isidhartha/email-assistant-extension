@@ -783,3 +783,7 @@ All notable changes are documented here.
 - feat: add Zod schema validation for all message types
 
 
+### 2023-12-06
+- feat: implement settings page for API key configuration
+
+
