@@ -787,3 +787,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2023-12-07
+- test: add service worker message handler unit tests
+
+
