@@ -791,3 +791,7 @@ All notable changes are documented here.
 - test: add service worker message handler unit tests
 
 
+### 2023-12-07
+- style: fix eslint violations across content scripts
+
+
