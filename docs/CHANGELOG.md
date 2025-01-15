@@ -795,3 +795,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2023-12-20
+- style: run prettier on all TypeScript source files
+
+
