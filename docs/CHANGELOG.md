@@ -799,3 +799,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2023-12-25
+- chore: add extension-specific eslint rules
+
+
