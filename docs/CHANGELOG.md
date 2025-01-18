@@ -803,3 +803,7 @@ All notable changes are documented here.
 - chore: add extension-specific eslint rules
 
 
+### 2023-12-26
+- fix: fix sidebar persistence across Gmail soft navigation
+
+
