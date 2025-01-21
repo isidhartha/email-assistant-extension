@@ -807,3 +807,7 @@ All notable changes are documented here.
 - fix: fix sidebar persistence across Gmail soft navigation
 
 
+### 2024-01-01
+- feat: implement loading spinner during AI processing
+
+
