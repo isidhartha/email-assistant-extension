@@ -811,3 +811,7 @@ All notable changes are documented here.
 - feat: implement loading spinner during AI processing
 
 
+### 2024-01-01
+- test: add unit tests for Gmail thread DOM extraction
+
+
