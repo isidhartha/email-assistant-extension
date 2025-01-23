@@ -815,3 +815,7 @@ All notable changes are documented here.
 - test: add unit tests for Gmail thread DOM extraction
 
 
+### 2024-01-02
+- fix: resolve SQLite WAL mode file locking conflict
+
+
