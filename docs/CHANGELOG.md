@@ -819,3 +819,7 @@ All notable changes are documented here.
 - fix: resolve SQLite WAL mode file locking conflict
 
 
+### 2024-01-03
+- test: add mock-based test for OpenAI agent calls
+
+
