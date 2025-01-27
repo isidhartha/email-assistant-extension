@@ -823,3 +823,7 @@ All notable changes are documented here.
 - test: add mock-based test for OpenAI agent calls
 
 
+### 2024-01-05
+- feat: add inline error message display for API failures
+
+
