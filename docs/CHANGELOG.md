@@ -827,3 +827,7 @@ All notable changes are documented here.
 - feat: add inline error message display for API failures
 
 
+### 2024-01-11
+- fix: fix sidebar persistence across Gmail soft navigation
+
+
