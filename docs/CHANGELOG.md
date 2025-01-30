@@ -831,3 +831,7 @@ All notable changes are documented here.
 - fix: fix sidebar persistence across Gmail soft navigation
 
 
+### 2024-01-16
+- feat: add history panel listing past AI interactions
+
+
