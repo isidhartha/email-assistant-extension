@@ -835,3 +835,7 @@ All notable changes are documented here.
 - feat: add history panel listing past AI interactions
 
 
+### 2024-01-16
+- feat: implement settings page for API key configuration
+
+
