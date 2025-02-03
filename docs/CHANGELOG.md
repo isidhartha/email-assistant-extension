@@ -839,3 +839,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2024-01-22
+- docs: document Chrome extension installation steps in README
+
+
