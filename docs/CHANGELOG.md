@@ -843,3 +843,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2024-01-23
+- feat: add support for Gmail conversation view threading
+
+
