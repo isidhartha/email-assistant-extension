@@ -847,3 +847,7 @@ All notable changes are documented here.
 - feat: add support for Gmail conversation view threading
 
 
+### 2024-01-30
+- style: fix eslint violations across content scripts
+
+
