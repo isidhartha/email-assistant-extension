@@ -851,3 +851,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2024-02-03
+- feat: implement background service worker for AI processing
+
+
