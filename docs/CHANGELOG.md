@@ -855,3 +855,7 @@ All notable changes are documented here.
 - feat: implement background service worker for AI processing
 
 
+### 2024-02-03
+- test: add service worker message handler unit tests
+
+
