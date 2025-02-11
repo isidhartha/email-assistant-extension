@@ -859,3 +859,7 @@ All notable changes are documented here.
 - test: add service worker message handler unit tests
 
 
+### 2024-02-06
+- fix: correct chrome.runtime message size limit handling
+
+
