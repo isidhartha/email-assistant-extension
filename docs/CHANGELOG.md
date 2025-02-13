@@ -863,3 +863,7 @@ All notable changes are documented here.
 - fix: correct chrome.runtime message size limit handling
 
 
+### 2024-02-10
+- fix: fix keyboard shortcut conflict with Gmail native keys
+
+
