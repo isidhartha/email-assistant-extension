@@ -867,3 +867,7 @@ All notable changes are documented here.
 - fix: fix keyboard shortcut conflict with Gmail native keys
 
 
+### 2024-02-12
+- feat: add better-sqlite3 local history storage
+
+
