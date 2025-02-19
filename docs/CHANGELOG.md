@@ -875,3 +875,7 @@ All notable changes are documented here.
 - docs: add screenshots guide placeholder to README
 
 
+### 2024-02-22
+- feat: implement copy-to-clipboard for generated drafts
+
+
