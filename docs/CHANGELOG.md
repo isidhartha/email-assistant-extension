@@ -879,3 +879,7 @@ All notable changes are documented here.
 - feat: implement copy-to-clipboard for generated drafts
 
 
+### 2024-02-22
+- feat: implement background service worker for AI processing
+
+
