@@ -887,3 +887,7 @@ All notable changes are documented here.
 - fix: correct chrome.runtime message size limit handling
 
 
+### 2024-02-23
+- docs: document Chrome extension installation steps in README
+
+
