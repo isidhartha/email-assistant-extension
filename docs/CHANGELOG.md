@@ -891,3 +891,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2024-02-27
+- style: fix eslint violations across content scripts
+
+
