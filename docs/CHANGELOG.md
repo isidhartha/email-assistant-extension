@@ -895,3 +895,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2024-02-28
+- feat: implement DOM thread context extraction for Gmail
+
+
