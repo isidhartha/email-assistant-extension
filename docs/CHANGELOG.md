@@ -899,3 +899,7 @@ All notable changes are documented here.
 - feat: implement DOM thread context extraction for Gmail
 
 
+### 2024-03-05
+- test: add unit tests for Gmail thread DOM extraction
+
+
