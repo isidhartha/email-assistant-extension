@@ -903,3 +903,7 @@ All notable changes are documented here.
 - test: add unit tests for Gmail thread DOM extraction
 
 
+### 2024-03-14
+- feat: implement background service worker for AI processing
+
+
