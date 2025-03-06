@@ -907,3 +907,7 @@ All notable changes are documented here.
 - feat: implement background service worker for AI processing
 
 
+### 2024-03-15
+- fix: resolve content script isolated world access issue
+
+
