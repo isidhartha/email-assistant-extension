@@ -915,3 +915,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2024-03-23
+- fix: fix keyboard shortcut conflict with Gmail native keys
+
+
