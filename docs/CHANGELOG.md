@@ -919,3 +919,7 @@ All notable changes are documented here.
 - fix: fix keyboard shortcut conflict with Gmail native keys
 
 
+### 2024-03-23
+- fix: fix sidebar z-index conflict with Gmail compose window
+
+
