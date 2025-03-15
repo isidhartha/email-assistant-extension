@@ -927,3 +927,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2024-03-28
+- fix: fix Zod schema for nullable thread sender fields
+
+
