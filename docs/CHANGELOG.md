@@ -931,3 +931,7 @@ All notable changes are documented here.
 - fix: fix Zod schema for nullable thread sender fields
 
 
+### 2024-03-28
+- feat: add better-sqlite3 local history storage
+
+
