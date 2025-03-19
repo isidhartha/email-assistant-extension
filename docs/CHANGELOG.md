@@ -935,3 +935,7 @@ All notable changes are documented here.
 - feat: add better-sqlite3 local history storage
 
 
+### 2024-03-31
+- docs: add screenshots guide placeholder to README
+
+
