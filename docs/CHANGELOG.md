@@ -939,3 +939,7 @@ All notable changes are documented here.
 - docs: add screenshots guide placeholder to README
 
 
+### 2024-04-01
+- refactor: extract DOM selectors to dedicated module
+
+
