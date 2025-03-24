@@ -943,3 +943,7 @@ All notable changes are documented here.
 - refactor: extract DOM selectors to dedicated module
 
 
+### 2024-04-07
+- docs: update architecture.md with service worker lifecycle
+
+
