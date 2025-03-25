@@ -947,3 +947,7 @@ All notable changes are documented here.
 - docs: update architecture.md with service worker lifecycle
 
 
+### 2024-04-07
+- feat: implement summary caching for repeated thread views
+
+
