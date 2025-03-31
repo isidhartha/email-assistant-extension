@@ -951,3 +951,7 @@ All notable changes are documented here.
 - feat: implement summary caching for repeated thread views
 
 
+### 2024-04-08
+- fix: correct chrome.runtime message size limit handling
+
+
