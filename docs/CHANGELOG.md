@@ -955,3 +955,7 @@ All notable changes are documented here.
 - fix: correct chrome.runtime message size limit handling
 
 
+### 2024-04-14
+- docs: update architecture.md with service worker lifecycle
+
+
