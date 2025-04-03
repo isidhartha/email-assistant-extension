@@ -963,3 +963,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2024-04-16
+- fix: handle empty thread body with fallback message
+
+
