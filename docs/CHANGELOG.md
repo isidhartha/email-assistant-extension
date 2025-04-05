@@ -967,3 +967,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2024-04-24
+- docs: add message passing API reference to docs/API.md
+
+
