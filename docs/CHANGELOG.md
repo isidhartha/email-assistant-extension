@@ -971,3 +971,7 @@ All notable changes are documented here.
 - docs: add message passing API reference to docs/API.md
 
 
+### 2024-04-25
+- feat: implement tone selector formal casual concise
+
+
