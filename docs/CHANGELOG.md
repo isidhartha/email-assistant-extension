@@ -975,3 +975,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2024-04-29
+- feat: add keyboard shortcut to toggle assistant sidebar
+
+
