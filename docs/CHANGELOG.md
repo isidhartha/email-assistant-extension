@@ -979,3 +979,7 @@ All notable changes are documented here.
 - feat: add keyboard shortcut to toggle assistant sidebar
 
 
+### 2024-05-01
+- fix: handle long email thread exceeding context limit
+
+
