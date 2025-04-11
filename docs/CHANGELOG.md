@@ -983,3 +983,7 @@ All notable changes are documented here.
 - fix: handle long email thread exceeding context limit
 
 
+### 2024-05-05
+- fix: handle OpenAI network error with user-friendly message
+
+
