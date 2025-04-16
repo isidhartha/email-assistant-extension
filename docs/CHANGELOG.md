@@ -995,3 +995,7 @@ All notable changes are documented here.
 - fix: handle OpenAI network error with user-friendly message
 
 
+### 2024-05-24
+- refactor: move SQLite schema to migration files
+
+
