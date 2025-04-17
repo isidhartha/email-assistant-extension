@@ -999,3 +999,7 @@ All notable changes are documented here.
 - refactor: move SQLite schema to migration files
 
 
+### 2024-05-27
+- feat: add Tailwind CSS scoped styles for sidebar UI
+
+
