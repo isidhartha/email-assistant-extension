@@ -1003,3 +1003,7 @@ All notable changes are documented here.
 - feat: add Tailwind CSS scoped styles for sidebar UI
 
 
+### 2024-05-29
+- refactor: consolidate API key retrieval into storage module
+
+
