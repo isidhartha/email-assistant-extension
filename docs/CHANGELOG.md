@@ -1007,3 +1007,7 @@ All notable changes are documented here.
 - refactor: consolidate API key retrieval into storage module
 
 
+### 2024-05-29
+- fix: resolve SQLite WAL mode file locking conflict
+
+
