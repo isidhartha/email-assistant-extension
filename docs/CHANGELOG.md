@@ -1015,3 +1015,7 @@ All notable changes are documented here.
 - fix: handle long email thread exceeding context limit
 
 
+### 2024-06-04
+- feat: implement background service worker for AI processing
+
+
