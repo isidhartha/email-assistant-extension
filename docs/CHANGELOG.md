@@ -1019,3 +1019,7 @@ All notable changes are documented here.
 - feat: implement background service worker for AI processing
 
 
+### 2024-06-05
+- feat: add OpenAI Agents SDK three-agent setup
+
+
