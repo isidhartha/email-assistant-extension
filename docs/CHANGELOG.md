@@ -1023,3 +1023,7 @@ All notable changes are documented here.
 - feat: add OpenAI Agents SDK three-agent setup
 
 
+### 2024-06-07
+- refactor: consolidate API key retrieval into storage module
+
+
