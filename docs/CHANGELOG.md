@@ -1027,3 +1027,7 @@ All notable changes are documented here.
 - refactor: consolidate API key retrieval into storage module
 
 
+### 2024-06-13
+- feat: add reply drafting agent with configurable tone control
+
+
