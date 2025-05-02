@@ -1035,3 +1035,7 @@ All notable changes are documented here.
 - fix: resolve Outlook DOM selector change after UI update
 
 
+### 2024-06-21
+- fix: resolve race condition between concurrent messages
+
+
