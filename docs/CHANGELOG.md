@@ -1039,3 +1039,7 @@ All notable changes are documented here.
 - fix: resolve race condition between concurrent messages
 
 
+### 2024-06-25
+- test: add Zod message schema validation tests
+
+
