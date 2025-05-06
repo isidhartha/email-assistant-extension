@@ -1043,3 +1043,7 @@ All notable changes are documented here.
 - test: add Zod message schema validation tests
 
 
+### 2024-07-05
+- feat: implement loading spinner during AI processing
+
+
