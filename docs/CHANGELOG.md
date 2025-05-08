@@ -1047,3 +1047,7 @@ All notable changes are documented here.
 - feat: implement loading spinner during AI processing
 
 
+### 2024-07-06
+- feat: implement Chrome Manifest V3 extension scaffold
+
+
