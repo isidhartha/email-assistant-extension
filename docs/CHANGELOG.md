@@ -1055,3 +1055,7 @@ All notable changes are documented here.
 - docs: update CONTRIBUTING.md with extension reload workflow
 
 
+### 2024-07-15
+- feat: add OpenAI Agents SDK three-agent setup
+
+
