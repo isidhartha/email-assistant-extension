@@ -1059,3 +1059,7 @@ All notable changes are documented here.
 - feat: add OpenAI Agents SDK three-agent setup
 
 
+### 2024-07-16
+- feat: add keyboard shortcut to toggle assistant sidebar
+
+
