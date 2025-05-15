@@ -1063,3 +1063,7 @@ All notable changes are documented here.
 - feat: add keyboard shortcut to toggle assistant sidebar
 
 
+### 2024-07-27
+- fix: correct SQLite database path on different OS
+
+
