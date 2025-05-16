@@ -1067,3 +1067,7 @@ All notable changes are documented here.
 - fix: correct SQLite database path on different OS
 
 
+### 2024-07-28
+- feat: add support for Gmail conversation view threading
+
+
