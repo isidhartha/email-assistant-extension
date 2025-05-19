@@ -1071,3 +1071,7 @@ All notable changes are documented here.
 - feat: add support for Gmail conversation view threading
 
 
+### 2024-07-30
+- feat: add reply drafting agent with configurable tone control
+
+
