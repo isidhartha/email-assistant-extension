@@ -1075,3 +1075,7 @@ All notable changes are documented here.
 - feat: add reply drafting agent with configurable tone control
 
 
+### 2024-08-02
+- feat: implement sidebar panel injection via content script
+
+
