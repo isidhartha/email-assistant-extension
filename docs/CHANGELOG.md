@@ -1079,3 +1079,7 @@ All notable changes are documented here.
 - feat: implement sidebar panel injection via content script
 
 
+### 2024-08-03
+- test: add mock-based test for OpenAI agent calls
+
+
