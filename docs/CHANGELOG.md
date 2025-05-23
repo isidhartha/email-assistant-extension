@@ -1083,3 +1083,7 @@ All notable changes are documented here.
 - test: add mock-based test for OpenAI agent calls
 
 
+### 2024-08-06
+- chore: configure Vite for Chrome extension build output
+
+
