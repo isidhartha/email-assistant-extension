@@ -1087,3 +1087,7 @@ All notable changes are documented here.
 - chore: configure Vite for Chrome extension build output
 
 
+### 2024-08-07
+- fix: handle empty thread body with fallback message
+
+
