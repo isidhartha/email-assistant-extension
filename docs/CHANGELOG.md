@@ -1091,3 +1091,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2024-08-09
+- fix: handle missing email body element in DOM extraction
+
+
