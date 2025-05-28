@@ -1095,3 +1095,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2024-08-12
+- feat: add Tailwind CSS scoped styles for sidebar UI
+
+
