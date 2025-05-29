@@ -1099,3 +1099,7 @@ All notable changes are documented here.
 - feat: add Tailwind CSS scoped styles for sidebar UI
 
 
+### 2024-08-12
+- feat: add content script injection for Gmail inbox pages
+
+
