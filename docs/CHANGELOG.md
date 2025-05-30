@@ -1103,3 +1103,7 @@ All notable changes are documented here.
 - feat: add content script injection for Gmail inbox pages
 
 
+### 2024-08-16
+- feat: implement action item extraction agent
+
+
