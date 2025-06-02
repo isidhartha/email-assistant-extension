@@ -1107,3 +1107,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2024-08-17
+- fix: resolve SQLite WAL mode file locking conflict
+
+
