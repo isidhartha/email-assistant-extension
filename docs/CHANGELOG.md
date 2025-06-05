@@ -1115,3 +1115,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2024-08-22
+- test: add unit tests for Gmail thread DOM extraction
+
+
