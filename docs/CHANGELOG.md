@@ -1119,3 +1119,7 @@ All notable changes are documented here.
 - test: add unit tests for Gmail thread DOM extraction
 
 
+### 2024-09-04
+- feat: implement SQLite schema with version migrations
+
+
