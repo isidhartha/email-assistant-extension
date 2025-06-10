@@ -1123,3 +1123,7 @@ All notable changes are documented here.
 - feat: implement SQLite schema with version migrations
 
 
+### 2024-09-04
+- feat: add Outlook Web support in content script
+
+
