@@ -1127,3 +1127,7 @@ All notable changes are documented here.
 - feat: add Outlook Web support in content script
 
 
+### 2024-09-06
+- fix: handle missing email body element in DOM extraction
+
+
