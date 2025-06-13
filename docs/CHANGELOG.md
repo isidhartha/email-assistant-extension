@@ -1131,3 +1131,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2024-09-06
+- feat: implement Chrome Manifest V3 extension scaffold
+
+
