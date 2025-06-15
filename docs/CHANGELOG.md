@@ -1135,3 +1135,7 @@ All notable changes are documented here.
 - feat: implement Chrome Manifest V3 extension scaffold
 
 
+### 2024-09-15
+- fix: handle long email thread exceeding context limit
+
+
