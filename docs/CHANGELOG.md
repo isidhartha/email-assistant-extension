@@ -1139,3 +1139,7 @@ All notable changes are documented here.
 - fix: handle long email thread exceeding context limit
 
 
+### 2024-09-17
+- docs: add message passing API reference to docs/API.md
+
+
