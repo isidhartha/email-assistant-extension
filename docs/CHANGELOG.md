@@ -1143,3 +1143,7 @@ All notable changes are documented here.
 - docs: add message passing API reference to docs/API.md
 
 
+### 2024-09-26
+- chore: bump TypeScript to 5.4
+
+
