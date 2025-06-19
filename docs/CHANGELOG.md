@@ -1147,3 +1147,7 @@ All notable changes are documented here.
 - chore: bump TypeScript to 5.4
 
 
+### 2024-09-29
+- fix: resolve race condition between concurrent messages
+
+
