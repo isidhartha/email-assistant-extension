@@ -1151,3 +1151,7 @@ All notable changes are documented here.
 - fix: resolve race condition between concurrent messages
 
 
+### 2024-10-01
+- feat: implement background service worker for AI processing
+
+
