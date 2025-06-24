@@ -1155,3 +1155,7 @@ All notable changes are documented here.
 - feat: implement background service worker for AI processing
 
 
+### 2024-10-03
+- feat: add support for Gmail conversation view threading
+
+
