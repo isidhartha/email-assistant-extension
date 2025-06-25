@@ -1159,3 +1159,7 @@ All notable changes are documented here.
 - feat: add support for Gmail conversation view threading
 
 
+### 2024-10-07
+- feat: implement action item extraction agent
+
+
