@@ -1167,3 +1167,7 @@ All notable changes are documented here.
 - feat: add OpenAI Agents SDK three-agent setup
 
 
+### 2024-10-16
+- feat: implement email thread summarisation agent
+
+
