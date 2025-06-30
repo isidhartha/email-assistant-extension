@@ -1171,3 +1171,7 @@ All notable changes are documented here.
 - feat: implement email thread summarisation agent
 
 
+### 2024-10-18
+- feat: add Outlook Web support in content script
+
+
