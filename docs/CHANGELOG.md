@@ -1175,3 +1175,7 @@ All notable changes are documented here.
 - feat: add Outlook Web support in content script
 
 
+### 2024-10-20
+- fix: correct SQLite database path on different OS
+
+
