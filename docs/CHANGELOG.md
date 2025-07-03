@@ -1179,3 +1179,7 @@ All notable changes are documented here.
 - fix: correct SQLite database path on different OS
 
 
+### 2024-10-21
+- feat: implement SQLite schema with version migrations
+
+
