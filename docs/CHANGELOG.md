@@ -1183,3 +1183,7 @@ All notable changes are documented here.
 - feat: implement SQLite schema with version migrations
 
 
+### 2024-10-28
+- test: add Zod message schema validation tests
+
+
