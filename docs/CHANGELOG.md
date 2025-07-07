@@ -1187,3 +1187,7 @@ All notable changes are documented here.
 - test: add Zod message schema validation tests
 
 
+### 2024-11-02
+- chore: configure Vite for Chrome extension build output
+
+
