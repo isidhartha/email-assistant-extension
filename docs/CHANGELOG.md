@@ -1191,3 +1191,7 @@ All notable changes are documented here.
 - chore: configure Vite for Chrome extension build output
 
 
+### 2024-11-02
+- docs: update architecture.md with service worker lifecycle
+
+
