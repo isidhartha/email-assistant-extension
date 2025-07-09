@@ -1195,3 +1195,7 @@ All notable changes are documented here.
 - docs: update architecture.md with service worker lifecycle
 
 
+### 2024-11-06
+- refactor: separate agent definitions from service worker
+
+
