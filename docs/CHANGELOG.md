@@ -1199,3 +1199,7 @@ All notable changes are documented here.
 - refactor: separate agent definitions from service worker
 
 
+### 2024-11-07
+- feat: implement Chrome Manifest V3 extension scaffold
+
+
