@@ -1203,3 +1203,7 @@ All notable changes are documented here.
 - feat: implement Chrome Manifest V3 extension scaffold
 
 
+### 2024-11-09
+- fix: correct chrome.runtime message size limit handling
+
+
