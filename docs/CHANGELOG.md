@@ -1207,3 +1207,7 @@ All notable changes are documented here.
 - fix: correct chrome.runtime message size limit handling
 
 
+### 2024-11-12
+- test: add service worker message handler unit tests
+
+
