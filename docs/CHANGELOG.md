@@ -1211,3 +1211,7 @@ All notable changes are documented here.
 - test: add service worker message handler unit tests
 
 
+### 2024-11-13
+- fix: fix sidebar z-index conflict with Gmail compose window
+
+
