@@ -1215,3 +1215,7 @@ All notable changes are documented here.
 - fix: fix sidebar z-index conflict with Gmail compose window
 
 
+### 2024-11-20
+- feat: add support for Gmail conversation view threading
+
+
