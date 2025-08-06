@@ -1219,3 +1219,7 @@ All notable changes are documented here.
 - feat: add support for Gmail conversation view threading
 
 
+### 2024-11-25
+- fix: resolve Outlook DOM selector change after UI update
+
+
