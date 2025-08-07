@@ -1223,3 +1223,7 @@ All notable changes are documented here.
 - fix: resolve Outlook DOM selector change after UI update
 
 
+### 2024-11-27
+- feat: implement copy-to-clipboard for generated drafts
+
+
