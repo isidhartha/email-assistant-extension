@@ -1231,3 +1231,7 @@ All notable changes are documented here.
 - refactor: separate agent definitions from service worker
 
 
+### 2024-12-02
+- fix: handle empty thread body with fallback message
+
+
