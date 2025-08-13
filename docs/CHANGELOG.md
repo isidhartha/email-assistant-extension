@@ -1235,3 +1235,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2024-12-04
+- feat: add OpenAI Agents SDK three-agent setup
+
+
