@@ -1239,3 +1239,7 @@ All notable changes are documented here.
 - feat: add OpenAI Agents SDK three-agent setup
 
 
+### 2024-12-04
+- refactor: separate agent definitions from service worker
+
+
