@@ -1243,3 +1243,7 @@ All notable changes are documented here.
 - refactor: separate agent definitions from service worker
 
 
+### 2024-12-09
+- fix: handle OpenAI network error with user-friendly message
+
+
