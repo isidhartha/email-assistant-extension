@@ -1247,3 +1247,7 @@ All notable changes are documented here.
 - fix: handle OpenAI network error with user-friendly message
 
 
+### 2024-12-11
+- refactor: consolidate message type definitions into enum
+
+
