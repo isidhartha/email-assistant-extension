@@ -1251,3 +1251,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2024-12-13
+- docs: add message passing API reference to docs/API.md
+
+
