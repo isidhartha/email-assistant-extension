@@ -1255,3 +1255,7 @@ All notable changes are documented here.
 - docs: add message passing API reference to docs/API.md
 
 
+### 2024-12-15
+- test: add unit tests for Gmail thread DOM extraction
+
+
