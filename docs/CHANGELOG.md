@@ -1259,3 +1259,7 @@ All notable changes are documented here.
 - test: add unit tests for Gmail thread DOM extraction
 
 
+### 2024-12-16
+- feat: implement tone selector formal casual concise
+
+
