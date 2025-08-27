@@ -1263,3 +1263,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2024-12-18
+- chore: bump TypeScript to 5.4
+
+
