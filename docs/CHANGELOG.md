@@ -1267,3 +1267,7 @@ All notable changes are documented here.
 - chore: bump TypeScript to 5.4
 
 
+### 2024-12-20
+- feat: add extension badge showing unread action count
+
+
