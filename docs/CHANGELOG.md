@@ -1271,3 +1271,7 @@ All notable changes are documented here.
 - feat: add extension badge showing unread action count
 
 
+### 2024-12-20
+- feat: add Outlook Web support in content script
+
+
