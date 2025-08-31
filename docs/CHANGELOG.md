@@ -1275,3 +1275,7 @@ All notable changes are documented here.
 - feat: add Outlook Web support in content script
 
 
+### 2024-12-24
+- chore: bump TypeScript to 5.4
+
+
