@@ -1279,3 +1279,7 @@ All notable changes are documented here.
 - chore: bump TypeScript to 5.4
 
 
+### 2024-12-24
+- docs: add screenshots guide placeholder to README
+
+
