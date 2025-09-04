@@ -1283,3 +1283,7 @@ All notable changes are documented here.
 - docs: add screenshots guide placeholder to README
 
 
+### 2024-12-25
+- fix: correct chrome.runtime message size limit handling
+
+
