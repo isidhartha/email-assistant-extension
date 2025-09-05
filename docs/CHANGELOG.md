@@ -1287,3 +1287,7 @@ All notable changes are documented here.
 - fix: correct chrome.runtime message size limit handling
 
 
+### 2025-01-09
+- fix: fix Zod schema for nullable thread sender fields
+
+
