@@ -1291,3 +1291,7 @@ All notable changes are documented here.
 - fix: fix Zod schema for nullable thread sender fields
 
 
+### 2025-01-14
+- feat: add keyboard shortcut to toggle assistant sidebar
+
+
