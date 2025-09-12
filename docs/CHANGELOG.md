@@ -1295,3 +1295,7 @@ All notable changes are documented here.
 - feat: add keyboard shortcut to toggle assistant sidebar
 
 
+### 2025-01-21
+- fix: handle empty thread body with fallback message
+
+
