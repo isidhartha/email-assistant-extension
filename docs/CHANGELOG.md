@@ -1299,3 +1299,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2025-01-28
+- chore: configure Vite for Chrome extension build output
+
+
