@@ -1303,3 +1303,7 @@ All notable changes are documented here.
 - chore: configure Vite for Chrome extension build output
 
 
+### 2025-01-28
+- docs: add screenshots guide placeholder to README
+
+
