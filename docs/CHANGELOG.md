@@ -1307,3 +1307,7 @@ All notable changes are documented here.
 - docs: add screenshots guide placeholder to README
 
 
+### 2025-01-29
+- fix: resolve Outlook DOM selector change after UI update
+
+
