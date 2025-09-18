@@ -1311,3 +1311,7 @@ All notable changes are documented here.
 - fix: resolve Outlook DOM selector change after UI update
 
 
+### 2025-01-31
+- feat: implement Chrome Manifest V3 extension scaffold
+
+
