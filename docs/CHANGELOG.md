@@ -1315,3 +1315,7 @@ All notable changes are documented here.
 - feat: implement Chrome Manifest V3 extension scaffold
 
 
+### 2025-02-09
+- fix: correct SQLite database path on different OS
+
+
