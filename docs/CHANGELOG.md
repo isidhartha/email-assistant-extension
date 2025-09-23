@@ -1319,3 +1319,7 @@ All notable changes are documented here.
 - fix: correct SQLite database path on different OS
 
 
+### 2025-03-04
+- feat: implement copy-to-clipboard for generated drafts
+
+
