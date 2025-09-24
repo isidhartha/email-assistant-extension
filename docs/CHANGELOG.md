@@ -1323,3 +1323,7 @@ All notable changes are documented here.
 - feat: implement copy-to-clipboard for generated drafts
 
 
+### 2025-03-05
+- test: add unit tests for Gmail thread DOM extraction
+
+
