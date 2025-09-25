@@ -1327,3 +1327,7 @@ All notable changes are documented here.
 - test: add unit tests for Gmail thread DOM extraction
 
 
+### 2025-03-18
+- feat: add extension badge showing unread action count
+
+
