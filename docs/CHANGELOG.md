@@ -1331,3 +1331,7 @@ All notable changes are documented here.
 - feat: add extension badge showing unread action count
 
 
+### 2025-03-19
+- fix: fix sidebar z-index conflict with Gmail compose window
+
+
