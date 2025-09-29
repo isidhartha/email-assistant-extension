@@ -1335,3 +1335,7 @@ All notable changes are documented here.
 - fix: fix sidebar z-index conflict with Gmail compose window
 
 
+### 2025-03-27
+- feat: implement settings page for API key configuration
+
+
