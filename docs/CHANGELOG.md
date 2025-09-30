@@ -1339,3 +1339,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2025-03-31
+- perf: cache DOM extraction result per thread ID
+
+
