@@ -1347,3 +1347,7 @@ All notable changes are documented here.
 - feat: add inline error message display for API failures
 
 
+### 2025-04-09
+- feat: add content script injection for Gmail inbox pages
+
+
