@@ -1351,3 +1351,7 @@ All notable changes are documented here.
 - feat: add content script injection for Gmail inbox pages
 
 
+### 2025-04-19
+- feat: add extension badge showing unread action count
+
+
