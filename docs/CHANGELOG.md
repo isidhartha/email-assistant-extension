@@ -1355,3 +1355,7 @@ All notable changes are documented here.
 - feat: add extension badge showing unread action count
 
 
+### 2025-04-21
+- feat: implement DOM thread context extraction for Gmail
+
+
