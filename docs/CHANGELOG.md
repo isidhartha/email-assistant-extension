@@ -1359,3 +1359,7 @@ All notable changes are documented here.
 - feat: implement DOM thread context extraction for Gmail
 
 
+### 2025-04-22
+- docs: update CONTRIBUTING.md with extension reload workflow
+
+
