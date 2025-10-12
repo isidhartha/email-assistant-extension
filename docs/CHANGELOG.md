@@ -1363,3 +1363,7 @@ All notable changes are documented here.
 - docs: update CONTRIBUTING.md with extension reload workflow
 
 
+### 2025-04-22
+- feat: implement tone selector formal casual concise
+
+
