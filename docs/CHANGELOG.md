@@ -1367,3 +1367,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2025-04-30
+- fix: fix Zod schema for nullable thread sender fields
+
+
