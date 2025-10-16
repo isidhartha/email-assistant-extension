@@ -1375,3 +1375,7 @@ All notable changes are documented here.
 - feat: add better-sqlite3 local history storage
 
 
+### 2025-05-07
+- feat: add Tailwind CSS scoped styles for sidebar UI
+
+
