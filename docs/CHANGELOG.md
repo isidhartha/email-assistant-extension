@@ -1379,3 +1379,7 @@ All notable changes are documented here.
 - feat: add Tailwind CSS scoped styles for sidebar UI
 
 
+### 2025-05-13
+- test: add unit tests for Gmail thread DOM extraction
+
+
