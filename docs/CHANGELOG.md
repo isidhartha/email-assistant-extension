@@ -1383,3 +1383,7 @@ All notable changes are documented here.
 - test: add unit tests for Gmail thread DOM extraction
 
 
+### 2025-05-14
+- refactor: separate agent definitions from service worker
+
+
