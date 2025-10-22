@@ -1387,3 +1387,7 @@ All notable changes are documented here.
 - refactor: separate agent definitions from service worker
 
 
+### 2025-05-15
+- docs: document permission requirements in manifest notes
+
+
