@@ -1391,3 +1391,7 @@ All notable changes are documented here.
 - docs: document permission requirements in manifest notes
 
 
+### 2025-05-15
+- docs: add screenshots guide placeholder to README
+
+
