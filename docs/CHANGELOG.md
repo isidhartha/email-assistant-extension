@@ -1395,3 +1395,7 @@ All notable changes are documented here.
 - docs: add screenshots guide placeholder to README
 
 
+### 2025-05-16
+- fix: resolve race condition between concurrent messages
+
+
