@@ -1403,3 +1403,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2025-05-20
+- fix: fix service worker lifecycle reset on Chrome restart
+
+
