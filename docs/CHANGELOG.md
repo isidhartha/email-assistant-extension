@@ -1407,3 +1407,7 @@ All notable changes are documented here.
 - fix: fix service worker lifecycle reset on Chrome restart
 
 
+### 2025-05-21
+- chore: add extension-specific eslint rules
+
+
