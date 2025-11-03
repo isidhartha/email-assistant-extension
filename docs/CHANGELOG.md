@@ -1411,3 +1411,7 @@ All notable changes are documented here.
 - chore: add extension-specific eslint rules
 
 
+### 2025-05-22
+- feat: implement email thread summarisation agent
+
+
