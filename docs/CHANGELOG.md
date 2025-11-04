@@ -1415,3 +1415,7 @@ All notable changes are documented here.
 - feat: implement email thread summarisation agent
 
 
+### 2025-06-03
+- feat: implement DOM thread context extraction for Gmail
+
+
