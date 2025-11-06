@@ -1419,3 +1419,7 @@ All notable changes are documented here.
 - feat: implement DOM thread context extraction for Gmail
 
 
+### 2025-06-04
+- fix: fix sidebar persistence across Gmail soft navigation
+
+
