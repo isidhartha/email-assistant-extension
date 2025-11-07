@@ -1423,3 +1423,7 @@ All notable changes are documented here.
 - fix: fix sidebar persistence across Gmail soft navigation
 
 
+### 2025-06-11
+- refactor: separate Gmail and Outlook content script logic
+
+
