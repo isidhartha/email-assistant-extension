@@ -1427,3 +1427,7 @@ All notable changes are documented here.
 - refactor: separate Gmail and Outlook content script logic
 
 
+### 2025-06-13
+- refactor: extract sidebar rendering into component functions
+
+
