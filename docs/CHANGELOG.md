@@ -1431,3 +1431,7 @@ All notable changes are documented here.
 - refactor: extract sidebar rendering into component functions
 
 
+### 2025-06-14
+- feat: implement DOM thread context extraction for Gmail
+
+
