@@ -1435,3 +1435,7 @@ All notable changes are documented here.
 - feat: implement DOM thread context extraction for Gmail
 
 
+### 2025-07-01
+- feat: add Zod schema validation for all message types
+
+
