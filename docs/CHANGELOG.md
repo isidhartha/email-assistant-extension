@@ -1439,3 +1439,7 @@ All notable changes are documented here.
 - feat: add Zod schema validation for all message types
 
 
+### 2025-07-02
+- perf: cache DOM extraction result per thread ID
+
+
