@@ -1443,3 +1443,7 @@ All notable changes are documented here.
 - perf: cache DOM extraction result per thread ID
 
 
+### 2025-07-05
+- feat: add OpenAI Agents SDK three-agent setup
+
+
