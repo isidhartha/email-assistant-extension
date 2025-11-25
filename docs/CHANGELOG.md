@@ -1447,3 +1447,7 @@ All notable changes are documented here.
 - feat: add OpenAI Agents SDK three-agent setup
 
 
+### 2025-07-21
+- feat: implement action item extraction agent
+
+
