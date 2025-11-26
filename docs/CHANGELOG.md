@@ -1451,3 +1451,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2025-07-22
+- style: fix eslint violations across content scripts
+
+
