@@ -1455,3 +1455,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2025-07-25
+- fix: resolve race condition between concurrent messages
+
+
