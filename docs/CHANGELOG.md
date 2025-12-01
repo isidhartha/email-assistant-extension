@@ -1459,3 +1459,7 @@ All notable changes are documented here.
 - fix: resolve race condition between concurrent messages
 
 
+### 2025-07-28
+- fix: handle empty thread body with fallback message
+
+
