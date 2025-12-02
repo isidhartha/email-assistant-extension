@@ -1463,3 +1463,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2025-07-28
+- refactor: extract sidebar rendering into component functions
+
+
