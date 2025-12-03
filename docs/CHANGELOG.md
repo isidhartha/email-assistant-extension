@@ -1467,3 +1467,7 @@ All notable changes are documented here.
 - refactor: extract sidebar rendering into component functions
 
 
+### 2025-08-04
+- chore: configure Vite for Chrome extension build output
+
+
