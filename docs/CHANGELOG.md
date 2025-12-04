@@ -1471,3 +1471,7 @@ All notable changes are documented here.
 - chore: configure Vite for Chrome extension build output
 
 
+### 2025-08-06
+- docs: document Chrome extension installation steps in README
+
+
