@@ -1475,3 +1475,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2025-08-17
+- fix: resolve content script isolated world access issue
+
+
