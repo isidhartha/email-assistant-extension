@@ -1479,3 +1479,7 @@ All notable changes are documented here.
 - fix: resolve content script isolated world access issue
 
 
+### 2025-08-18
+- feat: implement settings page for API key configuration
+
+
