@@ -1487,3 +1487,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2025-08-24
+- refactor: consolidate message type definitions into enum
+
+
