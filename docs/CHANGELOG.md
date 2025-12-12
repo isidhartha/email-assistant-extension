@@ -1491,3 +1491,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2025-08-26
+- fix: handle missing email body element in DOM extraction
+
+
