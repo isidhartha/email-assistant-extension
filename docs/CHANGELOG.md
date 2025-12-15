@@ -1495,3 +1495,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2025-08-26
+- feat: implement settings page for API key configuration
+
+
