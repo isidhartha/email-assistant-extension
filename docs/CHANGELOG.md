@@ -1503,3 +1503,7 @@ All notable changes are documented here.
 - refactor: consolidate API key retrieval into storage module
 
 
+### 2025-08-28
+- test: add service worker message handler unit tests
+
+
