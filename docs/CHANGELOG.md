@@ -1507,3 +1507,7 @@ All notable changes are documented here.
 - test: add service worker message handler unit tests
 
 
+### 2025-09-02
+- feat: add extension badge showing unread action count
+
+
