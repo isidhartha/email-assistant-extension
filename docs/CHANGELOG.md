@@ -1511,3 +1511,7 @@ All notable changes are documented here.
 - feat: add extension badge showing unread action count
 
 
+### 2025-09-05
+- refactor: extract DOM selectors to dedicated module
+
+
