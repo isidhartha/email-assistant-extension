@@ -1515,3 +1515,7 @@ All notable changes are documented here.
 - refactor: extract DOM selectors to dedicated module
 
 
+### 2025-09-06
+- fix: handle missing email body element in DOM extraction
+
+
