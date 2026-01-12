@@ -1519,3 +1519,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2025-09-12
+- test: add Zod message schema validation tests
+
+
