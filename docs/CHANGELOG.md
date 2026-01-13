@@ -1523,3 +1523,7 @@ All notable changes are documented here.
 - test: add Zod message schema validation tests
 
 
+### 2025-09-12
+- test: add unit tests for Gmail thread DOM extraction
+
+
