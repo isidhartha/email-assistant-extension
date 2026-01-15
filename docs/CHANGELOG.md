@@ -1531,3 +1531,7 @@ All notable changes are documented here.
 - feat: add inline error message display for API failures
 
 
+### 2025-09-15
+- perf: cache DOM extraction result per thread ID
+
+
