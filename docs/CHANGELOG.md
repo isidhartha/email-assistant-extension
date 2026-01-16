@@ -1535,3 +1535,7 @@ All notable changes are documented here.
 - perf: cache DOM extraction result per thread ID
 
 
+### 2025-09-16
+- feat: implement copy-to-clipboard for generated drafts
+
+
