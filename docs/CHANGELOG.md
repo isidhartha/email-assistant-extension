@@ -1539,3 +1539,7 @@ All notable changes are documented here.
 - feat: implement copy-to-clipboard for generated drafts
 
 
+### 2025-09-19
+- style: fix eslint violations across content scripts
+
+
