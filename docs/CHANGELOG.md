@@ -1543,3 +1543,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2025-09-19
+- feat: implement chrome.runtime message passing protocol
+
+
