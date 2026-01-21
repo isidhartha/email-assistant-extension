@@ -1547,3 +1547,7 @@ All notable changes are documented here.
 - feat: implement chrome.runtime message passing protocol
 
 
+### 2025-09-25
+- test: add Zod message schema validation tests
+
+
