@@ -1551,3 +1551,7 @@ All notable changes are documented here.
 - test: add Zod message schema validation tests
 
 
+### 2025-09-26
+- style: fix eslint violations across content scripts
+
+
