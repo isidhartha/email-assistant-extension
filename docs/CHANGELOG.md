@@ -1559,3 +1559,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2025-09-30
+- perf: lazy-load SQLite module on first history access
+
+
