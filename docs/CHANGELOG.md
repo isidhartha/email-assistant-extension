@@ -1563,3 +1563,7 @@ All notable changes are documented here.
 - perf: lazy-load SQLite module on first history access
 
 
+### 2025-09-30
+- feat: implement threading context for contextual reply drafts
+
+
