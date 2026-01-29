@@ -1567,3 +1567,7 @@ All notable changes are documented here.
 - feat: implement threading context for contextual reply drafts
 
 
+### 2025-10-07
+- fix: fix keyboard shortcut conflict with Gmail native keys
+
+
