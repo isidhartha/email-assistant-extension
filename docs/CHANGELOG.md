@@ -1571,3 +1571,7 @@ All notable changes are documented here.
 - fix: fix keyboard shortcut conflict with Gmail native keys
 
 
+### 2025-10-09
+- refactor: extract DOM selectors to dedicated module
+
+
