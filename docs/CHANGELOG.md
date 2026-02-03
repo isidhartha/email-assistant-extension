@@ -1575,3 +1575,7 @@ All notable changes are documented here.
 - refactor: extract DOM selectors to dedicated module
 
 
+### 2025-10-14
+- docs: document Chrome extension installation steps in README
+
+
