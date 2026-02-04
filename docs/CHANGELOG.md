@@ -1579,3 +1579,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2025-10-17
+- feat: implement loading spinner during AI processing
+
+
