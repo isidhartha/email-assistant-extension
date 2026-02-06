@@ -1583,3 +1583,7 @@ All notable changes are documented here.
 - feat: implement loading spinner during AI processing
 
 
+### 2025-10-20
+- fix: handle long email thread exceeding context limit
+
+
