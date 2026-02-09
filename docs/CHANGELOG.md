@@ -1587,3 +1587,7 @@ All notable changes are documented here.
 - fix: handle long email thread exceeding context limit
 
 
+### 2025-10-27
+- fix: resolve SQLite WAL mode file locking conflict
+
+
