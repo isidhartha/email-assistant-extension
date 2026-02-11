@@ -1591,3 +1591,7 @@ All notable changes are documented here.
 - fix: resolve SQLite WAL mode file locking conflict
 
 
+### 2025-10-31
+- fix: resolve race condition between concurrent messages
+
+
