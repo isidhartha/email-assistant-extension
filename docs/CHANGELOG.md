@@ -1595,3 +1595,7 @@ All notable changes are documented here.
 - fix: resolve race condition between concurrent messages
 
 
+### 2025-11-11
+- refactor: extract sidebar rendering into component functions
+
+
