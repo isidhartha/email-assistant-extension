@@ -1599,3 +1599,7 @@ All notable changes are documented here.
 - refactor: extract sidebar rendering into component functions
 
 
+### 2025-11-12
+- fix: fix sidebar z-index conflict with Gmail compose window
+
+
