@@ -1603,3 +1603,7 @@ All notable changes are documented here.
 - fix: fix sidebar z-index conflict with Gmail compose window
 
 
+### 2025-11-14
+- chore: add extension-specific eslint rules
+
+
