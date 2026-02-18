@@ -1607,3 +1607,7 @@ All notable changes are documented here.
 - chore: add extension-specific eslint rules
 
 
+### 2025-11-19
+- test: add service worker message handler unit tests
+
+
