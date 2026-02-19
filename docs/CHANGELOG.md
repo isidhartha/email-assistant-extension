@@ -1611,3 +1611,7 @@ All notable changes are documented here.
 - test: add service worker message handler unit tests
 
 
+### 2025-11-21
+- feat: add Zod schema validation for all message types
+
+
