@@ -1615,3 +1615,7 @@ All notable changes are documented here.
 - feat: add Zod schema validation for all message types
 
 
+### 2025-11-24
+- feat: add history panel listing past AI interactions
+
+
