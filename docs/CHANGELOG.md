@@ -1623,3 +1623,7 @@ All notable changes are documented here.
 - feat: add inline error message display for API failures
 
 
+### 2025-11-26
+- fix: fix sidebar persistence across Gmail soft navigation
+
+
