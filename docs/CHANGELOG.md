@@ -1627,3 +1627,7 @@ All notable changes are documented here.
 - fix: fix sidebar persistence across Gmail soft navigation
 
 
+### 2025-11-29
+- fix: handle missing email body element in DOM extraction
+
+
