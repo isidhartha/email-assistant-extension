@@ -1631,3 +1631,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2025-12-03
+- feat: add content script injection for Gmail inbox pages
+
+
