@@ -1639,3 +1639,7 @@ All notable changes are documented here.
 - feat: add history panel listing past AI interactions
 
 
+### 2025-12-09
+- feat: add Outlook Web support in content script
+
+
