@@ -1643,3 +1643,7 @@ All notable changes are documented here.
 - feat: add Outlook Web support in content script
 
 
+### 2025-12-10
+- fix: handle undefined API key on first extension launch
+
+
