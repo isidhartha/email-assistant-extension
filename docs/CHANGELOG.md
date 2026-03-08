@@ -1647,3 +1647,7 @@ All notable changes are documented here.
 - fix: handle undefined API key on first extension launch
 
 
+### 2025-12-15
+- feat: add keyboard shortcut to toggle assistant sidebar
+
+
