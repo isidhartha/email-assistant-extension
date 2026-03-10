@@ -1651,3 +1651,7 @@ All notable changes are documented here.
 - feat: add keyboard shortcut to toggle assistant sidebar
 
 
+### 2025-12-16
+- feat: add Tailwind CSS scoped styles for sidebar UI
+
+
