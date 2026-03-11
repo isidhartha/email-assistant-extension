@@ -1655,3 +1655,7 @@ All notable changes are documented here.
 - feat: add Tailwind CSS scoped styles for sidebar UI
 
 
+### 2025-12-18
+- fix: resolve race condition between concurrent messages
+
+
