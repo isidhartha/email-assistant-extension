@@ -1663,3 +1663,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2025-12-21
+- feat: add content script injection for Gmail inbox pages
+
+
