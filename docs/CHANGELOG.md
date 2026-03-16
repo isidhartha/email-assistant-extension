@@ -1667,3 +1667,7 @@ All notable changes are documented here.
 - feat: add content script injection for Gmail inbox pages
 
 
+### 2025-12-24
+- test: add Zod message schema validation tests
+
+
