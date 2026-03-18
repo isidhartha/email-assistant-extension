@@ -1671,3 +1671,7 @@ All notable changes are documented here.
 - test: add Zod message schema validation tests
 
 
+### 2025-12-26
+- fix: fix sidebar z-index conflict with Gmail compose window
+
+
