@@ -1675,3 +1675,7 @@ All notable changes are documented here.
 - fix: fix sidebar z-index conflict with Gmail compose window
 
 
+### 2025-12-26
+- feat: add Outlook Web support in content script
+
+
