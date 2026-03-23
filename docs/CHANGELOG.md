@@ -1679,3 +1679,7 @@ All notable changes are documented here.
 - feat: add Outlook Web support in content script
 
 
+### 2025-12-30
+- fix: fix service worker lifecycle reset on Chrome restart
+
+
