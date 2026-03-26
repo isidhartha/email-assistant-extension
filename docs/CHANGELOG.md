@@ -1683,3 +1683,7 @@ All notable changes are documented here.
 - fix: fix service worker lifecycle reset on Chrome restart
 
 
+### 2026-01-02
+- style: fix eslint violations across content scripts
+
+
