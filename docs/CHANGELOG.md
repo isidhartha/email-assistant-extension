@@ -1687,3 +1687,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2026-01-02
+- fix: handle missing email body element in DOM extraction
+
+
