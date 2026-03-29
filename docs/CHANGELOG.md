@@ -1691,3 +1691,7 @@ All notable changes are documented here.
 - fix: handle missing email body element in DOM extraction
 
 
+### 2026-01-15
+- fix: resolve Gmail CSS specificity override conflict
+
+
