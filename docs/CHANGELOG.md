@@ -1695,3 +1695,7 @@ All notable changes are documented here.
 - fix: resolve Gmail CSS specificity override conflict
 
 
+### 2026-01-28
+- refactor: consolidate message type definitions into enum
+
+
