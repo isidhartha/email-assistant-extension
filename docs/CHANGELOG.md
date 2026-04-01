@@ -1699,3 +1699,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2026-01-30
+- feat: implement tone selector formal casual concise
+
+
