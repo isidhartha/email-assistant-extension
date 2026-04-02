@@ -1703,3 +1703,7 @@ All notable changes are documented here.
 - feat: implement tone selector formal casual concise
 
 
+### 2026-01-30
+- fix: handle empty thread body with fallback message
+
+
