@@ -1707,3 +1707,7 @@ All notable changes are documented here.
 - fix: handle empty thread body with fallback message
 
 
+### 2026-02-08
+- fix: correct SQLite database path on different OS
+
+
