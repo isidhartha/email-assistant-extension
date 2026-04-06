@@ -1711,3 +1711,7 @@ All notable changes are documented here.
 - fix: correct SQLite database path on different OS
 
 
+### 2026-02-09
+- feat: add content script injection for Gmail inbox pages
+
+
