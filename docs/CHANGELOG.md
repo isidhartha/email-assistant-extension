@@ -1715,3 +1715,7 @@ All notable changes are documented here.
 - feat: add content script injection for Gmail inbox pages
 
 
+### 2026-02-12
+- refactor: separate Gmail and Outlook content script logic
+
+
