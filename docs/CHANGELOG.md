@@ -1719,3 +1719,7 @@ All notable changes are documented here.
 - refactor: separate Gmail and Outlook content script logic
 
 
+### 2026-02-14
+- style: fix eslint violations across content scripts
+
+
