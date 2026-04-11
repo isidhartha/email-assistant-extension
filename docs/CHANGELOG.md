@@ -1723,3 +1723,7 @@ All notable changes are documented here.
 - style: fix eslint violations across content scripts
 
 
+### 2026-02-28
+- feat: implement copy-to-clipboard for generated drafts
+
+
