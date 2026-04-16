@@ -1727,3 +1727,7 @@ All notable changes are documented here.
 - feat: implement copy-to-clipboard for generated drafts
 
 
+### 2026-03-01
+- feat: add reply drafting agent with configurable tone control
+
+
