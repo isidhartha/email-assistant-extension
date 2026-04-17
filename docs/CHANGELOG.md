@@ -1731,3 +1731,7 @@ All notable changes are documented here.
 - feat: add reply drafting agent with configurable tone control
 
 
+### 2026-03-03
+- refactor: extract DOM selectors to dedicated module
+
+
