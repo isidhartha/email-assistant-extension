@@ -1735,3 +1735,7 @@ All notable changes are documented here.
 - refactor: extract DOM selectors to dedicated module
 
 
+### 2026-03-09
+- refactor: consolidate message type definitions into enum
+
+
