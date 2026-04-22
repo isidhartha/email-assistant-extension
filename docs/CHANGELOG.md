@@ -1739,3 +1739,7 @@ All notable changes are documented here.
 - refactor: consolidate message type definitions into enum
 
 
+### 2026-03-10
+- chore: update manifest.json permissions for Outlook support
+
+
