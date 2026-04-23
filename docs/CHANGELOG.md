@@ -1743,3 +1743,7 @@ All notable changes are documented here.
 - chore: update manifest.json permissions for Outlook support
 
 
+### 2026-03-12
+- fix: handle missing email body element in DOM extraction
+
+
