@@ -1751,3 +1751,7 @@ All notable changes are documented here.
 - feat: implement settings page for API key configuration
 
 
+### 2026-03-17
+- feat: implement email thread summarisation agent
+
+
