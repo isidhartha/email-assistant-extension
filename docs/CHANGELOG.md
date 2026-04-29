@@ -1755,3 +1755,7 @@ All notable changes are documented here.
 - feat: implement email thread summarisation agent
 
 
+### 2026-03-18
+- docs: update CONTRIBUTING.md with extension reload workflow
+
+
