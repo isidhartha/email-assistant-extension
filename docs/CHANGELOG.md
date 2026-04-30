@@ -1759,3 +1759,7 @@ All notable changes are documented here.
 - docs: update CONTRIBUTING.md with extension reload workflow
 
 
+### 2026-03-19
+- refactor: extract sidebar rendering into component functions
+
+
