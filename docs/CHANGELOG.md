@@ -1763,3 +1763,7 @@ All notable changes are documented here.
 - refactor: extract sidebar rendering into component functions
 
 
+### 2026-03-23
+- fix: resolve content script isolated world access issue
+
+
