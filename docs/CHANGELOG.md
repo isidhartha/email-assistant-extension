@@ -1767,3 +1767,7 @@ All notable changes are documented here.
 - fix: resolve content script isolated world access issue
 
 
+### 2026-03-23
+- test: add service worker message handler unit tests
+
+
