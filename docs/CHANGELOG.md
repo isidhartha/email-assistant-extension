@@ -1771,3 +1771,7 @@ All notable changes are documented here.
 - test: add service worker message handler unit tests
 
 
+### 2026-03-25
+- docs: document Chrome extension installation steps in README
+
+
