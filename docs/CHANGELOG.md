@@ -1775,3 +1775,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2026-04-03
+- feat: implement chrome.runtime message passing protocol
+
+
