@@ -1779,3 +1779,7 @@ All notable changes are documented here.
 - feat: implement chrome.runtime message passing protocol
 
 
+### 2026-04-07
+- docs: add message passing API reference to docs/API.md
+
+
