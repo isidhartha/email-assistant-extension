@@ -1783,3 +1783,7 @@ All notable changes are documented here.
 - docs: add message passing API reference to docs/API.md
 
 
+### 2026-04-08
+- feat: implement action item extraction agent
+
+
