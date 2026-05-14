@@ -1787,3 +1787,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2026-04-08
+- docs: update architecture.md with service worker lifecycle
+
+
