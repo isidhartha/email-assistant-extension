@@ -1791,3 +1791,7 @@ All notable changes are documented here.
 - docs: update architecture.md with service worker lifecycle
 
 
+### 2026-04-09
+- chore: bump TypeScript to 5.4
+
+
