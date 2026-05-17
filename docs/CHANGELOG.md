@@ -1795,3 +1795,7 @@ All notable changes are documented here.
 - chore: bump TypeScript to 5.4
 
 
+### 2026-04-15
+- feat: implement action item extraction agent
+
+
