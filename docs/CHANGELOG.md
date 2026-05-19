@@ -1799,3 +1799,7 @@ All notable changes are documented here.
 - feat: implement action item extraction agent
 
 
+### 2026-04-16
+- fix: fix keyboard shortcut conflict with Gmail native keys
+
+
