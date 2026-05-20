@@ -1803,3 +1803,7 @@ All notable changes are documented here.
 - fix: fix keyboard shortcut conflict with Gmail native keys
 
 
+### 2026-04-21
+- fix: fix sidebar z-index conflict with Gmail compose window
+
+
