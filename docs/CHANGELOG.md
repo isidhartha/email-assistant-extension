@@ -1807,3 +1807,7 @@ All notable changes are documented here.
 - fix: fix sidebar z-index conflict with Gmail compose window
 
 
+### 2026-05-02
+- feat: implement background service worker for AI processing
+
+
