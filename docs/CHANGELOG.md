@@ -1815,3 +1815,7 @@ All notable changes are documented here.
 - fix: fix service worker lifecycle reset on Chrome restart
 
 
+### 2026-05-07
+- docs: document Chrome extension installation steps in README
+
+
