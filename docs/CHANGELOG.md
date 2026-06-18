@@ -1819,3 +1819,7 @@ All notable changes are documented here.
 - docs: document Chrome extension installation steps in README
 
 
+### 2026-05-08
+- chore: update manifest.json permissions for Outlook support
+
+
