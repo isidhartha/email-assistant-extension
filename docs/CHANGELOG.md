@@ -1823,3 +1823,7 @@ All notable changes are documented here.
 - chore: update manifest.json permissions for Outlook support
 
 
+### 2026-05-11
+- fix: handle empty thread body with fallback message
+
+
