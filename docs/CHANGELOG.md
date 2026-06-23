@@ -1831,3 +1831,7 @@ All notable changes are documented here.
 - fix: resolve SQLite WAL mode file locking conflict
 
 
+### 2026-05-22
+- chore: bump TypeScript to 5.4
+
+
