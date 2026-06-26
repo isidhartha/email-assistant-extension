@@ -1839,3 +1839,7 @@ All notable changes are documented here.
 - feat: add history panel listing past AI interactions
 
 
+### 2026-06-25
+- feat: add inline error message display for API failures
+
+
