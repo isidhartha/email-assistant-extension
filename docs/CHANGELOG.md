@@ -1843,3 +1843,7 @@ All notable changes are documented here.
 - feat: add inline error message display for API failures
 
 
+### 2026-06-28
+- feat: implement sidebar panel injection via content script
+
+
