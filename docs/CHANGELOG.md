@@ -1847,3 +1847,7 @@ All notable changes are documented here.
 - feat: implement sidebar panel injection via content script
 
 
+### 2026-06-28
+- refactor: consolidate API key retrieval into storage module
+
+
