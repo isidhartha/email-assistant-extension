@@ -1851,3 +1851,7 @@ All notable changes are documented here.
 - refactor: consolidate API key retrieval into storage module
 
 
+### 2026-06-29
+- chore: update manifest.json permissions for Outlook support
+
+
