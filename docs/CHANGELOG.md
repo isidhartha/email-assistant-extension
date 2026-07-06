@@ -1859,3 +1859,7 @@ All notable changes are documented here.
 - feat: add support for Gmail conversation view threading
 
 
+### 2026-07-05
+- test: add service worker message handler unit tests
+
+
