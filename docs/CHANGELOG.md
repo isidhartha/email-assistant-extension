@@ -1863,3 +1863,7 @@ All notable changes are documented here.
 - test: add service worker message handler unit tests
 
 
+### 2026-07-06
+- fix: resolve Outlook DOM selector change after UI update
+
+
