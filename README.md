@@ -1,5 +1,7 @@
 # Email Inbox Agent
 
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/email-assistant-extension)](https://github.com/isidhartha/email-assistant-extension/discussions)
+
 A Chrome extension (Manifest V3) that automatically classifies Gmail inbox emails using an OpenAI-powered agent. Each email subject line is tagged with a user-defined category label in-place, without leaving the page.
 
 ---
