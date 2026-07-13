@@ -4,6 +4,8 @@
 
 A Chrome extension that runs an AI triage pass over your Gmail inbox and stamps each email with a category label before you read it. You define the categories — things like `Work`, `Newsletters`, `Receipts`, `GitHub` — and the extension uses a GPT-4o-mini agent to classify each email based on the sender, subject line, and snippet preview.
 
+I built this because my inbox was running my day. Too many emails, too little time to actually think about replies — I kept spending 10 minutes crafting something that should've taken two. This extension hooks directly into the Gmail compose window and does the thinking for you, without leaving the tab.
+
 I got tired of opening Gmail and immediately feeling overwhelmed before even reading anything. The labels don't move the emails or auto-archive anything; they just make the inbox scannable at a glance so you can decide in two seconds which threads to open now and which ones to deal with later.
 
 The extension caches classifications in IndexedDB so repeat emails from the same sender don't hit the API again. It also watches for inbox changes via a debounced MutationObserver, so emails that arrive while you're on the page get classified automatically. The whole thing runs from a Manifest V3 content script injected into `mail.google.com`, with the settings popup handling API key storage and category management.
@@ -79,7 +81,18 @@ flowchart TD
 
 ## Demo
 
-> Screenshots coming soon.
+![Desktop view](docs/images/screenshot_desktop.png)
+
+![Feature highlight](docs/images/screenshot_feature.png)
+
+<details>
+<summary>Mobile / compact view</summary>
+
+![Mobile view](docs/images/screenshot_mobile.png)
+
+</details>
+
+![Demo walkthrough](docs/images/demo.gif)
 
 ## Contributing
 
