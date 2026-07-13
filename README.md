@@ -1,5 +1,7 @@
 # Email Inbox Agent
 
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/email-assistant-extension)](https://github.com/isidhartha/email-assistant-extension/discussions)
+
 A Chrome extension that runs an AI triage pass over your Gmail inbox and stamps each email with a category label before you read it. You define the categories — things like `Work`, `Newsletters`, `Receipts`, `GitHub` — and the extension uses a GPT-4o-mini agent to classify each email based on the sender, subject line, and snippet preview.
 
 I got tired of opening Gmail and immediately feeling overwhelmed before even reading anything. The labels don't move the emails or auto-archive anything; they just make the inbox scannable at a glance so you can decide in two seconds which threads to open now and which ones to deal with later.
