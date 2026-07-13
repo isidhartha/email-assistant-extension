@@ -1,169 +1,92 @@
 # Email Inbox Agent
 
-[![Discussions](https://img.shields.io/github/discussions/isidhartha/email-assistant-extension)](https://github.com/isidhartha/email-assistant-extension/discussions)
+A Chrome extension that runs an AI triage pass over your Gmail inbox and stamps each email with a category label before you read it. You define the categories — things like `Work`, `Newsletters`, `Receipts`, `GitHub` — and the extension uses a GPT-4o-mini agent to classify each email based on the sender, subject line, and snippet preview.
 
-A Chrome extension (Manifest V3) that automatically classifies Gmail inbox emails using an OpenAI-powered agent. Each email subject line is tagged with a user-defined category label in-place, without leaving the page.
+I got tired of opening Gmail and immediately feeling overwhelmed before even reading anything. The labels don't move the emails or auto-archive anything; they just make the inbox scannable at a glance so you can decide in two seconds which threads to open now and which ones to deal with later.
 
----
+The extension caches classifications in IndexedDB so repeat emails from the same sender don't hit the API again. It also watches for inbox changes via a debounced MutationObserver, so emails that arrive while you're on the page get classified automatically. The whole thing runs from a Manifest V3 content script injected into `mail.google.com`, with the settings popup handling API key storage and category management.
 
 ## Features
 
-- **AI email classification** — a `gpt-4o-mini` agent reads each email's sender, subject, and snippet and assigns it to one of the user-defined categories; unmatched emails are labelled `uncategorised`
-- **In-page tag injection** — classification labels are prepended to subject lines directly in the Gmail DOM as bold blue `[Category]` tags
-- **User-defined categories** — add and remove category labels from the extension popup; labels are synced via `chrome.storage.sync`
-- **Sender cache** — previously classified senders are stored in IndexedDB (`senders` object store); subsequent emails from the same sender reuse the cached label without a new API call
-- **Classification history** — every classification is logged to an IndexedDB `history` store (sender email, subject, snippet, category, timestamp); the `lookupSimilarEmails` tool searches this history to improve accuracy
-- **MutationObserver inbox watcher** — debounced observer re-runs triage whenever Gmail's main pane changes, so new emails are classified as they arrive
-- **Popup controls** — activate / deactivate the agent; opening settings reveals category management and a button to clear the IndexedDB database
-- **OpenAI API key onboarding** — on first open the popup shows an API key entry screen; the key is stored in `chrome.storage.sync`
-
----
+- **AI email classification** — GPT-4o-mini reads sender address, subject, and snippet and returns one of your user-defined category labels
+- **In-page tag injection** — prepends `[Category]` in bold blue to the email's subject line directly in the Gmail DOM without reloading the page
+- **User-defined categories** — add and remove labels from the popup; labels sync via `chrome.storage.sync` across devices
+- **IndexedDB sender cache** — previously seen senders are stored locally; subsequent emails from the same address reuse the cached label without a new API call
+- **Classification history log** — every classification is persisted to IndexedDB with sender, subject, snippet, and timestamp for the agent's `lookupSimilarEmails` tool to use
+- **MutationObserver inbox watcher** — debounced at 1 second, re-runs triage whenever Gmail's main pane updates so newly arrived emails get tagged automatically
+- **Popup agent toggle** — activate and deactivate the agent from the extension popup; deactivation removes existing tags from the DOM
+- **First-run API key setup** — the popup shows an API key input screen on first open; the key is stored in `chrome.storage.sync`
+- **Clear database button** — wipes the IndexedDB cache and history from the settings popup when you want a fresh start
 
 ## Tech Stack
 
 | Layer | Technology |
 |---|---|
 | Extension platform | Chrome Manifest V3 |
-| AI | OpenAI Agents SDK (`@openai/agents` 0.0.17), `gpt-4o-mini` |
-| OpenAI client | `openai` 5 |
-| Local storage | IndexedDB (via custom wrapper in `lib/db.ts`) |
-| Validation | Zod 3 |
+| AI | OpenAI Agents SDK, `gpt-4o-mini` |
+| Local storage | IndexedDB (custom wrapper in `lib/db.ts`) |
+| Settings storage | `chrome.storage.sync` |
 | Language | TypeScript 5 |
 | Styles | Tailwind CSS 4 |
-| Bundler | esbuild (via npm scripts) |
+| Bundler | esbuild |
 
----
+## Setup
 
-## Permissions (from manifest.json)
-
-```json
-"permissions": ["scripting", "activeTab", "storage"]
+```bash
+git clone https://github.com/isidhartha/email-assistant-extension.git
+cd email-assistant-extension
+npm install
+npm run build
 ```
 
-The extension only runs on `https://mail.google.com/*` via a declared content script.
+This bundles `content.ts` and `settings.ts` into `extension/dist/` and copies the manifest and HTML files.
 
----
+Load the extension in Chrome:
 
-## Project Structure
+1. Go to `chrome://extensions`
+2. Enable **Developer mode**
+3. Click **Load unpacked** and select the `extension/` folder
+4. Open Gmail — the popup will ask for your OpenAI API key on first launch
 
-```
-email-assistant-extension/
-  manifest.json         # Extension manifest (MV3)
-  content.ts            # Content script: DOM triage, tag injection, MutationObserver
-  settings.ts           # Popup script: API key, category management, agent toggle
-  settings.html         # Extension popup HTML
-  settings.css          # Popup styles
-  lib/
-    openai.ts           # Agent definition (gpt-4o-mini), lookupSimilarEmails tool
-    db.ts               # IndexedDB wrapper (senders, history, findSimilarEmail)
-    local-storage.ts    # chrome.storage.sync helpers for settings and tags
-  package.json
-```
+First-use steps:
 
----
+1. Click the extension icon, enter your OpenAI API key
+2. Add category labels in the settings (e.g. `Work`, `Newsletters`, `GitHub`, `Receipts`)
+3. Click **Activate Agent**
+4. Gmail inbox subjects will show `[Category]` tags as emails are classified
 
 ## Architecture
 
 ```mermaid
 flowchart TD
-    Gmail["Gmail (mail.google.com)"]
-    CS["content.ts\nContent Script"]
-    MO["MutationObserver\n(debounced, 1 s)"]
-    Cache["IndexedDB\nsenders store"]
-    Agent["OpenAI Agent\ngpt-4o-mini"]
-    History["IndexedDB\nhistory store"]
-    Tag["DOM tag injection\n[Category] in subject"]
-    Popup["settings.html\nPopup"]
-    Sync["chrome.storage.sync\n(API key, tags)"]
-
-    Gmail --> CS
-    CS --> MO
+    Gmail["Gmail DOM\nmail.google.com"] --> CS["content.ts\nContent Script"]
+    CS --> MO["MutationObserver\ndebounced 1s"]
     MO --> CS
-    CS -- "getSender(email)" --> Cache
-    Cache -- "cached label" --> Tag
-    CS -- "runAgent()" --> Agent
-    Agent -- "lookupSimilarEmails" --> History
-    Agent -- "classification label" --> CS
+    CS -- "getSender(email)" --> Cache["IndexedDB\nsenders store"]
+    Cache -- "cached label" --> Tag["DOM Injection\n[Category] tag"]
+    CS -- "runAgent()" --> Agent["OpenAI Agent\ngpt-4o-mini"]
+    Agent -- "lookupSimilarEmails" --> History["IndexedDB\nhistory store"]
+    Agent -- "classification" --> CS
     CS -- "upsertSender()" --> Cache
     CS -- "logHistory()" --> History
     CS --> Tag
-    Popup -- "activateAgent / deactivateAgent" --> CS
-    Popup -- "saveApiKey / saveTags" --> Sync
+    Popup["Extension Popup\nsettings.html"] -- "activateAgent\ndeactivateAgent" --> CS
+    Popup -- "API key + tags" --> Sync["chrome.storage.sync"]
     CS -- "loadTags()" --> Sync
 ```
 
----
+## Demo
 
-## Setup
+> Screenshots coming soon.
 
-### Prerequisites
+## Contributing
 
-- Node.js 18+
-- npm
-- An OpenAI API key
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-### Install dependencies
+## License
 
-```bash
-npm install
-```
-
-### Build the extension
-
-```bash
-npm run build
-```
-
-This runs the full build pipeline:
-
-1. Cleans the `extension/` output directory
-2. Creates `extension/dist/`
-3. Copies `manifest.json` to `extension/`
-4. Bundles `content.ts` → `extension/dist/content.js` (ESM, esbuild)
-5. Bundles `settings.ts` → `extension/dist/settings.js` (ESM, esbuild)
-6. Copies `settings.html` → `extension/settings.html`
-7. Copies `settings.css` → `extension/settings.css`
-
-### Load in Chrome
-
-1. Open `chrome://extensions`
-2. Enable **Developer mode**
-3. Click **Load unpacked** and select the `extension/` folder
-4. Navigate to Gmail — the popup will prompt for your OpenAI API key on first launch
-
-### First use
-
-1. Click the extension icon and enter your OpenAI API key
-2. Add one or more category labels (e.g. `Newsletters`, `Work`, `Receipts`)
-3. Click **Activate Agent** while the Gmail tab is active
-4. Subject lines will be tagged as emails are classified
-
----
-
-## Screenshots
-
-<!-- Add screenshots here -->
-
----
+MIT
 
 ## Author
 
-Ram Sidhartha
-
----
-
-## Demo
-
-![Demo](docs/images/demo.gif)
-
-### Desktop View
-
-![Desktop screenshot](docs/images/screenshot_desktop.png)
-
-### Key Feature
-
-![Feature screenshot](docs/images/screenshot_feature.png)
-
-### Mobile View
-
-![Mobile screenshot](docs/images/screenshot_mobile.png)
+[isidhartha](https://github.com/isidhartha)
